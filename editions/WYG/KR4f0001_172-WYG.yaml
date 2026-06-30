@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/172
+seq: 172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻四十一目録祭文躬詣天壇祈雨祭文天壇謝雨祭文躬禱天壇文天壇祈雨祭文祈穀壇祭文親征噶爾丹告祭天壇文剿滅噶爾丹告祭天壇文剿滅噶爾丹告祭歴代帝王陵寢文剿滅噶爾丹告祭先師孔子文祭禹陵文祭明太祖文祭西嶽華山文重修闕里聖廟告成遣皇子告祭文
+  hash: sha256:1cb0ed1e8ee73d62cd90644e5b230571b274d7938909d411bfd696af69aa1c5f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_172-1a, image: WYG1298/WYG1298-0711a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷四十一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_172.txt
+hash: sha256:f3c0fd13c77b2d073f89df3d44ce0ddb8981ad48f7d9c1d53fe688317fef7c3e

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/346
+seq: 346
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十三目録記刈麥記碑記顯應寺碑記􅀢髻山玉皇閣碑記湯山龍尊王佛廟碑記碑文資福院碑文溥仁寺碑文彚宗寺碑文平定西藏碑文
+  hash: sha256:c487e94deb1150e31e99c899020d6bd152f2e92d10c64c6b8976cafac59ff7fc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_346-1a, image: WYG1299/WYG1299-0542a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷二十三目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_346.txt
+hash: sha256:199c4a4567366651f88387b9bd728c2d2601b67d7e3d8f3ac0ebf23e4b88b3b7

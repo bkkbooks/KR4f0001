@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻十九目録序性理大全序文獻通考序日講四書解義序日講書經解義序日講易經解義序重刻番藏經序古文淵鑑序
+  hash: sha256:97a9a506ec18c51160c27d6c5ca242898851b960af43203bb58ef3569d48b468
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_042-1a, image: WYG1298/WYG1298-0184a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷十九目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_042.txt
+hash: sha256:1d364286278939cb3c79262412be1e78ecbc301919f207e89ebbaf21f87ec4c4

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二目録勅諭諭吏兵二部諭禮部諭禮部諭吏部諭兵部諭兵部都察院督捕衙門諭戸兵二部諭禮部諭吏部等衙門諭禮部諭刑部諭都察院左都御史明珠諭禮部諭禮部諭吏兵二部諭禮部諭戸部諭禮部諭刑部等衙門諭大學士巴泰索額圖李霨魏裔介學士哲爾肯哈占達都色黒馬朗古張鳯儀靳輔陳敱永諭禮部諭禮部諭戸部
+  hash: sha256:2e822fad94cc0a6b714bcbc781d9f0164cf3b22939eb0f8a600bc0f275bfc298
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_008-1a, image: WYG1298/WYG1298-0046a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_008.txt
+hash: sha256:ca4db16c2c37a7bf05267fdccd0a7bf926c038f8933ae2c145fa2eda861a5221

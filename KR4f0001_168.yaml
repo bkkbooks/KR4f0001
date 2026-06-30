@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/168
+seq: 168
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十九目録雜著閲史緒論六十六條
+  hash: sha256:2739a6fab7e2e2ef8bc508782acb88414696a7efe222a3a79d8a91dc06f0bbe8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_168-1a, image: WYG1298/WYG1298-0694a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十九目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_168.txt
+hash: sha256:ad06f2d488c7cc874087b8d06470ef26129b192b3a35122263f8321dd975b2c1

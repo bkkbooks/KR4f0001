@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/164
+seq: 164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十七目録雜著親征漠北紀略下
+  hash: sha256:976d9369a8a7df770b73fb45722f15903b8ea11e247a740e6532cdde33717532
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_164-1a, image: WYG1298/WYG1298-0678a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十七目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_164.txt
+hash: sha256:ee7b64135667eb592897891f43cdd6551ece7660e21dc94d40feabae9ed336cb

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十一目録說為學如鍊金說老安少懷說佛牙說詩說琴說稼說操舟說解信古解八議解鄉舉里選解以德為衛解
+  hash: sha256:81eda5ac36b289ba5008d2bcd56433ebbf443d2a9b5a8079a843d49d1428148d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_046-1a, image: WYG1298/WYG1298-0196c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_046.txt
+hash: sha256:f622c4feaf03332630034abcf3458f462768d07b0d34ec8b22741b587e350fb9

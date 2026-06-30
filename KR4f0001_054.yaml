@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十五目録贊至聖先師孔子贊並序顏子贊曾子贊子思子贊孟子贊老子出關圖贊畫馬贊陳所翁畫龍贊筆贊針講官針督撫針祭酒針給事中針御史針守令針銘硯銘鼎銘屏風銘鳥鎗銘鳥鎗銘弩銘弩銘
+  hash: sha256:18ec5d29a21bf8746c08b720f01e6b87e1733281bb27ce8ead32887b12494a35
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_054-1a, image: WYG1298/WYG1298-0216c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十五目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_054.txt
+hash: sha256:3219348f910ec63a6e06e146986f2cf6aa3d38bef96d6077e1b823983637c882

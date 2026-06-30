@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/228
+seq: 228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷十六目録敕諭諭內閣諭户部尚書張鵬翮內閣學士噶敏圖諭刑部諭工部諭都察院諭八旗都統副都統參領等諭南書房侍直大學士陳廷敬等諭吏部諭工部諭户部諭大學士溫達張玉書陳廷敬李光地學士塞爾圖孫柱滿丕滿保王思軾顧恱履潘宗洛諭户部諭户部諭兵部諭刑部諭户部諭兵部諭户部諭兵部諭户部諭兵部諭户部
+  hash: sha256:475373b5e445dbad899b584f18a87c665dee3709d819d9164b84f41a50a7997f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_228-1a, image: WYG1299/WYG1299-0132a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷十六目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_228.txt
+hash: sha256:392b105d4adf94417d8a8a10cf8a214079e2a91e3f6d97853d793dddb8730499

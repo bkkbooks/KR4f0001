@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十目録記鄚州水淀記乾清宫讀書記南巡筆記泉林記雪記宫中日課記
+  hash: sha256:a524cb936f4d486a8f6ca4c015cf9ab1688738995e10c25f9a75a9d131aedf23
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_044-1a, image: WYG1298/WYG1298-0190a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_044.txt
+hash: sha256:4306a8d80bcb19f4febfe943906ca5a97f4eb8dfcdd01540b587ff0635d9d99f

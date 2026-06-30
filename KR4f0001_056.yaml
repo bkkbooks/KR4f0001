@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十六目録雜著講筵緒論計四十六則
+  hash: sha256:579c8b587298a1ee17156f1c45ff3eef5da518566a7d59b7814509f18c6b05ec
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_056-1a, image: WYG1298/WYG1298-0222c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十六目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_056.txt
+hash: sha256:f4ac705ab8ecfd02c9bfbee7e4a724ac9698df7e183675a7fb49d39b5bf63d2b

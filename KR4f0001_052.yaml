@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十四目録頌福陵頌並序昭陵頌並序孝陵頌並序大德景福頌并序
+  hash: sha256:c3f44e04451aad626999312c6b5408f168c083b6ae88fe4ef2786ddfb0596118
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_052-1a, image: WYG1298/WYG1298-0212a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十四目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_052.txt
+hash: sha256:ec65b198527010f86275e8df3f81112774ae7bb09f2da2bd725c7437ebfa40ae

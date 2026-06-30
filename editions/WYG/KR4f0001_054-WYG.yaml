@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十五目録贊至聖先師孔子贊幷序顏子贊曾子贊子思子贊孟子贊老子出關圖贊畫馬贊陳所翁畫龍贊筆贊箴講官箴督撫箴祭酒箴給事中箴御史箴守令箴銘硯銘鼎銘屏風銘鳥鎗銘鳥鎗銘弩銘弩銘
+  hash: sha256:3ccf17119c49a39c835fff3707646cee7f1e9bdc4a5744342f2b3eb6e0d7352c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_054-1a, image: WYG1298/WYG1298-0216c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十五目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_054.txt
+hash: sha256:13870e5391aa494bac6235cf3e4786561f260bd035ef4ef749403f5aac343f19

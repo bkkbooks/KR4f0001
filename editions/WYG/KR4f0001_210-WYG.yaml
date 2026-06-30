@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/210
+seq: 210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻七目錄勅諭諭户部諭户部諭工部諭内閣諭大學士九卿等諭刑部諭内閣諭吏部諭吏户兵工四部諭工部諭刑部諭扈從大學士馬齊張玉書陳廷敬諭山東巡撫趙世顯諭河道總督張鵬翮諭河道總督張鵬翮及河工官員
+  hash: sha256:b2e3385c1cbe2595916f14b5fb5578bf4d503d04fbd6261f16fd35e3f5ef44af
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_210-1a, image: WYG1299/WYG1299-0070a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷七目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_210.txt
+hash: sha256:41eb04939f112e6efff52b263bff833e16a1980f5fdf9f03ebe8dbf945ab72d3

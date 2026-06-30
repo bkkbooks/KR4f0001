@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷三十六目録古今體詩三十八首東巡二首並序玉田駐蹕豐潤城西夷齊廟並序灤河泛舟經永平城南撫寧山海關並序蒙恬所築長城姜女祠曉過寧逺行殿夜覽章奏呂翁山是聖祖太宗文皇帝擒洪承疇處松山杏山晚眺憩小凌河錦州道上駐蹕大凌河途次逢寒食十三山過廣寧望醫巫閭山渡句驪河過永安橋口占盛京遣使請太皇太后皇太后起居夜書奏疏畢偶成三月初六日告祭福陵恭述十韻初八日告祭昭陵恭述十二韻盛京舊宫告祀禮成宴諸臣於舊宫三月十一日雪中詣永陵告祭薩爾滸並序栁條邊望月望祀長白山松花江放船歌江中雨望經葉赫廢城鐵嶺雜詠
+  hash: sha256:b2d0655f6864bef50988d0ead591494c94b01361798cae8c8fcbb325a42babc8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_076-1a, image: WYG1298/WYG1298-0286a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷三十六目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_076.txt
+hash: sha256:db6528ae657f9f740184f558dc77b579753e305ce501876238be0c13f7660002

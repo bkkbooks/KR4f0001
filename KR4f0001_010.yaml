@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷三目録敕諭諭內閣翰林院諭刑部等衙門諭禮部諭吏部諭兵部諭宗人府吏兵二部諭禮部諭禮部諭吏兵二部諭吏部諭兵部併督捕衙門諭禮部尚書哈爾哈齊侍郎常鼐諭太常寺諭戶部諭吏部等衙門諭吏兵二部諭吏部諭刑部諭工部諭宗人府諭刑部諭禮部諭兵部諭禮部諭戶部諭戶部諭吏部諭兵部諭吏部諭吏兵二部諭戶部
+  hash: sha256:29a6fd6a4a0335674449df9f86b8de182d866ffbbf8b73fd947daf905089c520
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_010-1a, image: WYG1298/WYG1298-0053c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷三目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_010.txt
+hash: sha256:8ed807715ebc73d0cc6cb7be61fe8f119881318282b683114ce988cea8efaa8d

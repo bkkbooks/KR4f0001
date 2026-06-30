@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/206
+seq: 206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷五目録敕諭諭兵部諭內閣兵部諭吏部諭大學士馬齊席哈納張玉書吳琠陳廷敬等諭吏户兵三部諭大學士馬齊西哈納張玉書吳琠陳廷敬學士常壽色德里滿丕趙士芳王九齡曹鑑倫諭武殿試讀卷官諭奉命撫苗尚書席爾達等諭大學士馬齊張玉書吳琠陳廷敬諭工部諭户部諭吏工二部諭大學士馬齊等
+  hash: sha256:918b002212b470699690450d355e42b74261771e4a0749faffe64d151b867123
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_206-1a, image: WYG1299/WYG1299-0056a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷五目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_206.txt
+hash: sha256:b97778eea765dc9f9c6a6f5858e3cfe5fd031f9b559b1e8c929779882e052c32

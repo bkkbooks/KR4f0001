@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷三目録勅諭諭内閣翰林院諭刑部等衙門諭禮部諭吏部諭兵部諭宗人府吏兵二部諭禮部諭禮部諭吏兵二部諭吏部諭兵部併督捕衙門諭禮部尚書哈爾哈齊侍郎常鼐諭太常寺諭戸部諭吏部等衙門諭吏兵二部諭吏部諭刑部諭工部諭宗人府諭刑部諭禮部諭兵部諭禮部諭戸部諭戸部諭吏部諭兵部諭吏部諭吏兵二部諭戸部
+  hash: sha256:4a671596ce9470628201b119c5a0bbe0dc9bdee1e7cb5f1cf98116875f87ef3a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_010-1a, image: WYG1298/WYG1298-0053c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷三目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_010.txt
+hash: sha256:681978c060202cae32b5f1205839a05d453a55550428852e347c9bca36f28eea

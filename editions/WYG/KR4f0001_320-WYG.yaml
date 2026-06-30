@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/320
+seq: 320
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻十目録勅諭諭各路將軍諭大學士九卿諭戸部諭學士星俄特常鼐郎中三寳呉碩色鄂啟卿齊布員外郎呉黒逹頼諭戸部諭大學士學士九卿詹事科道等諭吏部諭大學士九卿諭大學士馬齊理藩院尚書赫壽等諭九卿諭大學士馬齊松柱蕭永藻王掞等
+  hash: sha256:97017bd785eb12325d61671e20f52e5b636d28c8ed26751aa3ef20fbf73bd0c6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_320-1a, image: WYG1299/WYG1299-0458a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷十目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_320.txt
+hash: sha256:84efec68db0245b790e9d5b4af33b02f3644af60b2666c94a99f002be8d8a1d5

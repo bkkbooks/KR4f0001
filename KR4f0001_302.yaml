@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/302
+seq: 302
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷一目録敕諭諭滿漢大學士九卿等諭大學士九卿諭大學士溫達等諭吏部諭大學士溫達等諭大學士九卿諭大學士九卿諭兵部諭大學士溫達等諭內閣諭禮部諭湖廣總督鄂海等諭户部諭吏部諭大學士溫達李光地王掞等諭九卿
+  hash: sha256:1b0b5d6346d680ef1684732d2c8470938a6337344f462ca7b703d4328783ffe4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_302-1a, image: WYG1299/WYG1299-0399a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_302.txt
+hash: sha256:06967a532b90b0d20b5964ce35d9ba1448e7d0ac39d0c02ce0a245b201184167

@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR4f0001/bkk/v1/markers/130
+seq: 130
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4f0001_krp_130-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4f0001_WYG_130-1a01}
+  - {type: indent, offset: 0, content: 　, id: KR4f0001_krp_130-bkkind1}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR4f0001_krp_130-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_130-1a02}
+  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
+  - {type: substitution, offset: 21, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: 'kr:newline', offset: 22, content: '
+
+      ', id: KR4f0001_krp_130-bkkkrnewl3}
+  - {type: line-break, offset: 22, content: '', id: KR4f0001_WYG_130-1a03}
+  - {type: indent, offset: 22, content: 　　, id: KR4f0001_krp_130-bkkind2}
+  - {type: substitution, offset: 24, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4438}}
+  - {type: 'kr:newline', offset: 26, content: '
+
+      ', id: KR4f0001_krp_130-bkkkrnewl4}
+  - {type: line-break, offset: 26, content: '', id: KR4f0001_WYG_130-1a04}
+  - {type: indent, offset: 26, content: 　　　　, id: KR4f0001_krp_130-bkkind3}
+  - {type: punctuation, offset: 30, content: (, id: KR4f0001_krp_130-bkkpn1}
+  - {type: punctuation, offset: 33, content: /, id: KR4f0001_krp_130-bkkpn2}
+  - {type: punctuation, offset: 33, content: ), id: KR4f0001_krp_130-bkkpn3}
+  - {type: 'kr:newline', offset: 33, content: '
+
+      ', id: KR4f0001_krp_130-bkkkrnewl5}
+  back: []
+hash: sha256:70f31da9a1835bee7a221d939509332643635eccc87f6da799c13c89bfc9e86b

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/148
+seq: 148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻二十九目錄表上太皇太后萬夀表奏書奏皇太后書奏皇太后書奏皇太后書奏皇太后書奏皇太后書奏皇太后書奏皇太后書奏皇太后書
+  hash: sha256:d3e02980086e9740fa4d339c1c61d16dcb73caf44369b672de2d34e2f034fd35
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_148-1a, image: WYG1298/WYG1298-0614a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷二十九目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_148.txt
+hash: sha256:30663f75450c6ab81d19443e749200033f09488f0ec85fab2106b4677976eb36

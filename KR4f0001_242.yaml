@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/242
+seq: 242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十三目録碑記普濟堂碑記髙旻寺碑記補陀羅迦山普濟寺碑記重修清凉山羅睺寺碑記碑文重修天竺寺碑文南海補陀法雨寺碑文廣仁寺碑文重修南嶽廟碑文重修西嶽廟碑文
+  hash: sha256:a8f1524fcc16857a7cd401a8d652b1d86095f4ef6d845a8536f6576345ffd5ed
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_242-1a, image: WYG1299/WYG1299-0178a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷二十三目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_242.txt
+hash: sha256:2132e3afa89d5c2f6fdf9673a3bf08e1d98db316ecf3881e04bf9f25a3d8c8d3

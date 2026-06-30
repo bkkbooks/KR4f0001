@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/174
+seq: 174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻四十二目録賦恭祝皇太后萬夀無疆賦汗血馬賦木棉賦金蓮花賦菊賦
+  hash: sha256:a007a3401163ea1d22067d647dcfdc44232506fa8976b15ecff90af9da6a029c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_174-1a, image: WYG1298/WYG1298-0718a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷四十二目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_174.txt
+hash: sha256:c47a9b9b2515452b147702dcc8d5db8896ebe64a3a3f5e713a45d60a77560aac

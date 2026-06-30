@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/222
+seq: 222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷十三目録敕諭諭戶部諭內閣諭户部諭內閣諭內閣諭工部諭內閣諭內大臣大學士九卿等諭江浙在京官員大學士張玉書尚書王鴻緒等諭工部諭刑部諭內閣諭內閣諭工部諭兵部諭工部
+  hash: sha256:4200cb91c4cf91310e68f044f3ec4e97b7a5395e01c274607dd32041e4ed39b2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_222-1a, image: WYG1299/WYG1299-0112a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷十三目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_222.txt
+hash: sha256:8aff6f74980410f6c0a14607c968840ec5b3e231a45f72fc900465242a0cb8cd

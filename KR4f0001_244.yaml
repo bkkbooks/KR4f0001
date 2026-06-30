@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/244
+seq: 244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十四目録碑文五臺山棲賢寺碑文五臺山顯通寺碑文五臺山湧泉寺碑文五臺山廣宗寺碑文五臺山白雲寺碑文東嶽廟碑文穹覽寺碑文北鎮廟碑文隆興寺碑文重修西頂廣仁宫碑文
+  hash: sha256:43bdd804d2f3ab8fa1e39d3b5362dde27d8ca224b0b3ea3e5b46c515c800893c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_244-1a, image: WYG1299/WYG1299-0184a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷二十四目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_244.txt
+hash: sha256:c9d216a52692d0e8bb6a6903bba5c1c3be100f47ca6edd7f570814d0fc59132b

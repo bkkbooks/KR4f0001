@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/326
+seq: 326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻十三目録勅諭諭大學士九卿等諭大學士九卿等諭大學士馬齊等諭大學士九卿詹事科道諭户部諭議政大臣九卿等諭大學士馬齊等諭大學士馬齊等諭學士常夀諭議政大臣諭大學士馬齊松柱蕭永藻王掞王頊齡學士張廷玉蔣廷錫髙其倬勵廷儀阿克敦額赫納格爾布等諭户部
+  hash: sha256:d3584dbc2931d714add4d043339d7b361fec3ab5e8817d7bcf795c2b7e5ae733
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_326-1a, image: WYG1299/WYG1299-0477a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷十三目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_326.txt
+hash: sha256:1829017a9e2c62eb0c9a9364befc7e602f12cd4a8240f4f7e0eee98a33d1b68b

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷六目録敕諭諭議政大臣諭議政大臣諭議政大臣諭九卿諭大學士松柱學士查弼納敦拜等諭大學士松柱學士查弼納敦拜等諭吏部尚書富寧安諭户部諭議政大臣諭議政大臣諭大學士松柱學士查弼納敦拜星俄特常壽諭大學士馬齊等諭户部
+  hash: sha256:6be30e23535b292ea028d9109b8a2ca89170dcc946eab4dbb2329f10a431ad37
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_312-1a, image: WYG1299/WYG1299-0433a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷六目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_312.txt
+hash: sha256:d315c858d98fc00160f24a80aaa1d7b9f3efbaabbf9536e640067f28b53400fa

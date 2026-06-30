@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十四目録頌福陵頌幷序昭陵頌幷序孝陵頌幷序大德景福頌并序
+  hash: sha256:b398b421be07fe753db9838a79cc458cd8021e40ae25a1d0fe47d481d83e9576
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_052-1a, image: WYG1298/WYG1298-0212a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十四目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_052.txt
+hash: sha256:af7134a7648b301b617981802b1fb7f971a7c55d2507438ab265ffff8294b7ec

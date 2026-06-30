@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/362
+seq: 362
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻三十一目録雜著康熙幾暇格物編江源恒河浮白御稻米食氣鳥舌地中有火禽鳥肫肚之别賦時和年豐慶祝賦并序
+  hash: sha256:a55344379e53f439bacea49f68c1b41014661022251029b38317bd0b4d7ad931
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_362-1a, image: WYG1299/WYG1299-0597a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷三十一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_362.txt
+hash: sha256:52b0743c93978b8786b0a502691e9999cd6802201a6dd2d7c86588a25b7a8ee6

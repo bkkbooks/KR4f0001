@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/334
+seq: 334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷十七目録敕諭諭大學士九卿等諭大學士九卿等諭户部尚書孫渣齊諭大學士九卿諭大學士九卿等諭大學士馬齊等諭臺灣衆民諭宗人府諭大學士馬齊等諭大學士馬齊等諭吏部諭吏兵二部諭浙閩總督滿保等諭大學士等
+  hash: sha256:ac8e351f164881650d32b0cb0888e226592df8e1a4d510003d614002de09757c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_334-1a, image: WYG1299/WYG1299-0503c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷十七目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_334.txt
+hash: sha256:c137e61e367f9619cfb45e1a7ebad95cc2b5e29e65037f8717474b079d46d0bd

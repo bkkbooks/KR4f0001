@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/240
+seq: 240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻二十二目録序詠物詩選序歴代題畫詩類序歴代詩餘選序書畫譜序廣羣芳譜序記水性記黄船記避暑山莊記
+  hash: sha256:d7e6f55aef8982583ef9a6a8a3f0f2b4a4c9759a9ac3fed24d5351a7c66a398f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_240-1a, image: WYG1299/WYG1299-0171a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷二十二目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_240.txt
+hash: sha256:41fcff040f07aeef7497b0e9c748dd1dd5c61ab59ccaaf288fc7a3b3a6d4a4ad

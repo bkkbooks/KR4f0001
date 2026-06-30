@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻八目錄勅諭諭大將軍康親王傑淑諭安親王岳樂因岳州將軍等失機特諭議政諸臣諭禮部諭吏部諭盛京將軍安褚䕶諭戸部諭内務府諭吏部諭兵部諭禮部諭禮部諭吏部諭刑部諭禮部諭兵部諭兵部諭戸部諭吏部等衙門諭戸工二部
+  hash: sha256:465ffe0fec683786bbff0bf8bffaf5bb0debdee0dd49bb91a9b82489b54a3a82
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_020-1a, image: WYG1298/WYG1298-0093c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷八目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_020.txt
+hash: sha256:162003d0f49624b1faf8eb6e27487dd2532757558773d9bdca764acf4d638b59

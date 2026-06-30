@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/150
+seq: 150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十目録論博約一貫論王道近民論業廣惟勤論亷靜論論兵論息兵安民說太極圖說小學課士說樂府說捕蝗說製硯說解四維解
+  hash: sha256:bdc1a15e31f11f507aa93af27caf07177e165c7707070e2d6cc3f98da717dbfc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_150-1a, image: WYG1298/WYG1298-0622a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_150.txt
+hash: sha256:9e27c01576418afe8dbc2842bac2656f1c69e4361bb8eccba7092ab6d39444e2

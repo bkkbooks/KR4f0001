@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷二十一目録北征敕諭諭皇太子十一條
+  hash: sha256:2cdc377d8bd9d219b41a63705e3d6c959ea87e8dec8594e1cf50d72aea22706e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_132-1a, image: WYG1298/WYG1298-0534a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷二十一目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_132.txt
+hash: sha256:092312fd5e32f02960e35afaca2a0d720b1339dd0789d80ecf17849ab1b96931

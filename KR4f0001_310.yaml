@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/310
+seq: 310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷五目録敕諭諭大學士溫逹松柱李光地蕭永藻王掞等諭吏部尚書張鵬翮等諭直𨽻巡撫趙宏燮諭直𨽻巡撫趙宏燮諭吏部諭吏部尚書張鵬翮副都御史阿錫鼐諭大學士溫逹松柱李光地蕭永藻王掞諭吏部諭議政大臣諭議政大臣諭議政大臣諭議政大臣等諭喇藏台吉察漢逹席諭議政大臣諭議政大臣諭大學士松柱兵部尚書孫徴灝等諭戶部
+  hash: sha256:bea82ce1f1f8e1cc0ae174bb1e183371d1d666d43e21b9d8476d18e044997642
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_310-1a, image: WYG1299/WYG1299-0426c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷五目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_310.txt
+hash: sha256:b60d556d2caecd8a46d181588d295838a54eb9bdc2d91201073bd0e253f9444b

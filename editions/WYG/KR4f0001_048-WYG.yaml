@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十二目録碑聖感寺碑賜一等公遏必隆家廟碑黒龍潭重建龍王廟碑賜廣西廵撫馬雄鎭墓碑賜福建總督范承謨墓碑中臺演教寺碑東臺望海寺碑
+  hash: sha256:f75f364d8c790b5c30c86d7d2cb0fb55014e3b39da0457b01d07ff583cd56424
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_048-1a, image: WYG1298/WYG1298-0204a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十二目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_048.txt
+hash: sha256:846e8f2fa1f96f11dc65de6b2d770f6d2697f7c0c980cfbd1d353d6ba7abff57

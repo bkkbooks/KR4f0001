@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/358
+seq: 358
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十九目録雜著康熙幾暇格物編黃河九曲老人星趙孟俯命名九河故道楊柳風隨地殊風無正方水底有風人依土生定南針兩尺脉屬兩腎
+  hash: sha256:0ad402dea79d8bc7b1fb041e57b367ff190e435dc082607a21823de5db898f4f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_358-1a, image: WYG1299/WYG1299-0586a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷二十九目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_358.txt
+hash: sha256:cc7879285b233327048287eacc4108146014054a24e466599d2464fd93637b44

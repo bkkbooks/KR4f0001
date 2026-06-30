@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/64
+seq: 64
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻三十目録賦春雨賦梧桐賦弩賦幷序夜亮木賦幷序西苑芙蕖賦松賦玉泉賦行殿讀書賦幷序竹賦幷序闕里古檜賦幷序
+  hash: sha256:b5638e397c670aff98dfe51c41d8393a0b9bc65e66077e3e41c24b2614e1ee17
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_064-1a, image: WYG1298/WYG1298-0246c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷三十目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_064.txt
+hash: sha256:a421bbb9b3228d08084f7274a4c22aa82d6b750c774d5f196c9714fef412aab3

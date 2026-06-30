@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/156
+seq: 156
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十三目録記恭侍皇太后駕臨金山記創興盛京海運記海運賑濟朝鮮記暢春園記萼輝園記
+  hash: sha256:289388cb193657d7fff9d3ce9f92600d06d21a5b5c130b0467efa1829420c5b5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_156-1a, image: WYG1298/WYG1298-0644c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十三目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_156.txt
+hash: sha256:47aef4efe11cd148d152ba46a2178d4bdf6ddedcc321c2f6a159d938594c1f29

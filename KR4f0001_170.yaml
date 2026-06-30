@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/170
+seq: 170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷四十目録雜著庭訓讀周禮書後書戰國策後書性理奧後跋虞世南墨蹟後跋顏真卿墨蹟後跋蘇軾墨蹟後跋黃庭堅墨蹟後跋米芾墨蹟後跋朱子墨蹟後跋趙孟俯墨蹟後跋董其昌墨蹟後連珠
+  hash: sha256:da5995d2a8f853cdff2e9eb9e232ac57f4e1da754ee0cf9511e3d1a6a4713dac
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_170-1a, image: WYG1298/WYG1298-0704a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷四十目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_170.txt
+hash: sha256:5e63d3fec911a85760694b62a1913f1c56c18de3207c170d264b4ef879d01292

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/238
+seq: 238
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十一目録序資治通鑑綱目全書序佩文韻府序淵鑑類函序歷代賦彚序清凉山新志序四朝詩選序
+  hash: sha256:137d42f46b1ad5fc23b013487ae10d695734f9c6b943be0a6dc7fd99105c9f85
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_238-1a, image: WYG1299/WYG1299-0165a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷二十一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_238.txt
+hash: sha256:28e0dfd1722fc6966e5d963540fec951179b2609ddb3e62d9b2b0de95786bf91

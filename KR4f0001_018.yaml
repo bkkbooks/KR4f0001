@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷七目録敕諭諭巴林長公主諭傅𢎞烈賫奏道臣劉曉諭內閣傳諭平南親王奄達尚之信賫奏人諭吏部諭將軍穆占諭戶部諭禮部諭吏戶兵三部諭撫蠻滅寇將軍廣西巡撫傅𢎞烈諭吏兵二部諭掌院學士陳廷敬侍講學士張英侍讀王士禎中書舍人髙士竒諭對秦吳默納等諭大學士撫逺大將軍圖海諭吏部等衙門諭兵部諭中書舍人髙士竒諭刑部諭禮部諭吏部等衙門諭將軍穆占
+  hash: sha256:8be012298e33b3e27b3c1d07a7626e28a814ba93fdebbc48e35c0003482a36fe
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_018-1a, image: WYG1298/WYG1298-0086a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷七目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_018.txt
+hash: sha256:ea1cc3278f9969820b998be6e66f52b40ed55574cb3b053e432ac477c0a0f238

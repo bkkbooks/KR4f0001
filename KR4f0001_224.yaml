@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/224
+seq: 224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷十四目録敕諭諭九卿詹事科道諭兵部諭工部諭內閣諭吏部諭户部諭刑部諭內閣諭户部諭刑部諭浙江巡撫黃秉中諭兵部諭宗人府諭兵部諭刑部諭兵部諭內閣九卿等
+  hash: sha256:da556f8a552baaaadbc03ca7ad1f6102b1b827154334e197f2392eeeef3b04f5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_224-1a, image: WYG1299/WYG1299-0118c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷十四目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_224.txt
+hash: sha256:996c40fea6ec5e079ef15ee779225462cfc73729b2b3ef5bce3b0820ec180809

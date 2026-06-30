@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/318
+seq: 318
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷九目錄勅諭諭貴州廵撫劉䕃樞諭大學士馬齊松柱蕭永藻王掞學士蔡升元王之樞渣克旦彭始摶星俄特顧悦履薩哈布常鼐等諭戸部諭兵部諭大學士馬齊等諭大學士九卿諭内閣九卿諭吏部諭大學士九卿科道諭議政大臣等
+  hash: sha256:a8a024896cabc8f0a2b063d9250d7d9374cc5732cec017e185f9ff80e2f09219
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_318-1a, image: WYG1299/WYG1299-0451c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷九目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_318.txt
+hash: sha256:2e7956211f784bc58d7747c431a686c5caadca95d9213b3d8a2fc0bb3ddfc74f

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/162
+seq: 162
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十六目錄雜著親征漠北紀略上
+  hash: sha256:4b88e4eeba29cd1160b0d67fed3287d864d6e28acec99764467a0bc21dc04680
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_162-1a, image: WYG1298/WYG1298-0668a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十六目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_162.txt
+hash: sha256:536f285398b3d765d3afd87109a7023f772af0d49689b72c59b22aae948666b3

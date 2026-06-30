@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷四十四目録雜著題劉松年畫論韻府刻本跋書大學跋跋道德仁藝扁後跋德業仁義扁後跋都俞吁咈扁後跋書草訣百韻後祭文告祈榖壇祭文賦桑賦并序蓴賦并序
+  hash: sha256:c77997dff84d9c40a14800f2f05e1b7a9c8eeb8d8f14768fee784f4ce5ceb18d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_284-1a, image: WYG1299/WYG1299-0333a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷四十四目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_284.txt
+hash: sha256:8d87e8877804f768563b9e76e7dcfbd7158151025c933330ba13bd7f88a03455

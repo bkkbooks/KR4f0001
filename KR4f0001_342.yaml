@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/342
+seq: 342
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十一目録論理學論先天後天論同聲相應論序性理精義序朱子全書序歷代年表序
+  hash: sha256:5f6641460512d79edcda3f60ed69a63386d1fd2f8c5f6cb00f300795c5f02789
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_342-1a, image: WYG1299/WYG1299-0531c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷二十一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_342.txt
+hash: sha256:5ca98144a03297fffd00b8b925c3f5bc94b6d95f4097b3fe1125d6f011ac39af

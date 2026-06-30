@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻十八目録論禮樂論居敬行簡論農桑論讀書貴毋自欺論讀書貴有恒論王道論過金陵論勤儉論辯王霸辯
+  hash: sha256:f88010fe6dfc7c1e77e2bf1b58c7061f3dd306cef09fc1c0e724303e5541319e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_040-1a, image: WYG1298/WYG1298-0177a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷十八目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_040.txt
+hash: sha256:ec73c78e4b1ad8e5a887577d5817e90a817d53d5a255bd8100ad639c7222ee51

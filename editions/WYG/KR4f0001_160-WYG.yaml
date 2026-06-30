@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/160
+seq: 160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十五目錄頌祈榖壇頌有序二典頌有序禹陵頌有序贊王右軍洗硯池贊有序石鼓贊有序箴河臣箴漕臣箴臺省箴太常箴提鎮箴銘淵鑒齋銘佩文齋銘知稼軒銘察罕七羅勒石銘拖諾山勒石銘昭木多勒石銘狼居胥山勒石銘
+  hash: sha256:29dcfda0505d10a57a2bd55a1b724762c40caa65c1860669090362218d7c7f32
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_160-1a, image: WYG1298/WYG1298-0660a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十五目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_160.txt
+hash: sha256:561711ffc9ec45df265c6f7b62e714267bad913a406edc52adaac2e80b4c9562

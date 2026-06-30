@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷十七目録表上太皇太后進衣表上太皇太后萬壽表上太皇太后萬壽表論愼幾微論無逸以致壽論君臣一體論寬嚴論愼刑論學校論
+  hash: sha256:e87d09fa4bb7c5d8b480784e0a4ca0729bce236aa6b95ada4cbd2403a48a1e81
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_038-1a, image: WYG1298/WYG1298-0170a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷十七目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_038.txt
+hash: sha256:f211453d1fc58cecb089b05287e3e39c013d2fefa492d2a63251ab0c5b583f71

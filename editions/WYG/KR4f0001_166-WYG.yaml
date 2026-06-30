@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十八目錄雜著閲史緒論四十一條
+  hash: sha256:a48ac01a4081121ec1b1387868970fa10122bf5add9360da122c98ca0ddc818f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_166-1a, image: WYG1298/WYG1298-0686c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十八目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_166.txt
+hash: sha256:28cb675c7983fcb02f3f92af822c8e809f199fcb23cdae4f5176e30496e31b49

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷六目録敕諭諭吏兵二部諭禮部諭吏戶兵三部諭禮部諭管侍衛內大臣諭海澄公黃芳世諭日講官起居注侍讀學士牛鈕諭禮部諭翰林院掌院學士喇沙里陳廷敬侍讀學士葉方藹侍講學士張英諭刑部諭新委西勒圖部落首領喇嘛墨爾根噶布褚諭平南親王奄達尚之信齎奏參將羅思漢諭遣往將軍莽吉圗軍前侍講學士顧八代諭平南親王奄達尚之信齎奏回粵張永祥諭禮部諭吏禮二部諭吏部諭大學士明珠諭大學士巴泰諭廣東提督王可臣諭大學士索額圖諭吏部等大小各衙門諭河南巡撫董國興諭遣往廣西巡撫傅𢎞烈軍前筆帖式噶爾西拖洛諭大學士署禮部索額圗諭工部尚書馬喇侍郎溫代
+  hash: sha256:3c81217b1a19a7162cd15e5956efaa3816bd1a781fd61aaab19145b6afc451d8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_016-1a, image: WYG1298/WYG1298-0078a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷六目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_016.txt
+hash: sha256:4e875be401ca66128093d9b1829d269302ff3641cd0f68d0ceffc71617aa0b25

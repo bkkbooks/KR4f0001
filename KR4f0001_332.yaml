@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/332
+seq: 332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷十六目録敕諭諭大學士馬齊等諭大學士學士九卿詹事科道等諭滿漢文武大臣等諭大學士九卿等諭大學士馬齊等諭大學士馬齊等諭大學士馬齊等諭大學士學士九卿
+  hash: sha256:0c60e01b8c631bc903b71f7b49d76905354b78aec34a47f1af9634fc0eb0a441
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_332-1a, image: WYG1299/WYG1299-0497a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷十六目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_332.txt
+hash: sha256:f2a3a548ecb37ef4f34d4c2824a70fe45e9702be573c7371d0a98a78a1deea17

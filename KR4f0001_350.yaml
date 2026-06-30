@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/350
+seq: 350
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十五目録雜著七詢
+  hash: sha256:31ccdfe6077ee0249ec18ef443fb1b769aa0716ce117a40369242383d4b8310a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_350-1a, image: WYG1299/WYG1299-0555a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷二十五目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_350.txt
+hash: sha256:dccc9dc3767cae8e5fa4eecf62d6ce29d9e2bd3d7ca731295a880ddfc91a7cc5

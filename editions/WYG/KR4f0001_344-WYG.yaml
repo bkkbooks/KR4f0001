@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/344
+seq: 344
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十二目録序御選唐詩序康熙字典序月令輯要序周易折中序春秋傳說彚纂序福建總督范承謨畫壁集序
+  hash: sha256:f69465ed3beea66b9a0515c1c0a7aaa52475153c1797d5ce87ede8f2f86fd76e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_344-1a, image: WYG1299/WYG1299-0537a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷二十二目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_344.txt
+hash: sha256:6fb45835ce99dbc1e000a6339d7e808afab74d86ebac31a6f9e5a6cfc7a04a49

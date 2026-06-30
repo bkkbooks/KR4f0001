@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/308
+seq: 308
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷四目録敕諭諭大學士等諭大學士溫逹松柱李光地蕭永藻王掞等諭大學士松柱左都御史兼翰林院掌院學士揆叙諭戶部諭禮部諭大學士松柱等諭領侍衛內大臣等諭刑部諭大學士九卿詹事科道諭刑部諭南書房翰林諭大學士松柱李光地蕭永藻王掞諭戶部諭戶部諭大學士松柱等諭大學士溫逹松柱李光地蕭永藻王掞諭理藩院諭大學士學士九卿詹事科道
+  hash: sha256:9eaf0a1de5e819fa84489a44b87f914ca194a2b7ea94566039fb8dc5e5fddeb0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_308-1a, image: WYG1299/WYG1299-0419a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷四目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_308.txt
+hash: sha256:c4d6ba588cf73d46dca32f46d488b3a2931f1f1a09515295707d8e8c3b756dc7

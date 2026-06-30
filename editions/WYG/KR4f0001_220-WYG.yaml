@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/220
+seq: 220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻十二目録勅諭諭户部諭户部諭浙江福建總督梁鼐浙江巡撫王然江南江西總督邵穆布安徽巡撫劉光美江蘇巡撫于準山東巡撫趙世顯諭刑部諭扈從大學士馬齊張玉書陳廷敬等諭吏部諭戸部諭兵部諭内閣諭内閣諭内閣諭工部諭大學士馬齊等諭起居注官揆敘等諭大學士馬齊等諭兵部諭大學士馬齊等諭户部
+  hash: sha256:64432fd411f02e0e01e08f08d5702f924aa2a19738144bbfef86de26eabdaaa3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_220-1a, image: WYG1299/WYG1299-0105a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷十二目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_220.txt
+hash: sha256:ccdbbf64887061cb2a2a929a1e45706d2873992c8e4601d8d69a4780028ee431

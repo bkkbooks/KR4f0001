@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/266
+seq: 266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷三十五目録雜著古文評論計五十八條
+  hash: sha256:5260231e2fba078b41f5ca7db998397f78aef38dfe76c5bb314f0a8b22950f26
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_266-1a, image: WYG1299/WYG1299-0268c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷三十五目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_266.txt
+hash: sha256:9681cef0c46ae6962e970f53d260c46c118cada3df834f44900264584d6f2cd4

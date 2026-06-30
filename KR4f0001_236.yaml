@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/236
+seq: 236
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十目録序親征平定朔漠方略序增修皇輿表序五燈全書序清文鑑序全唐詩録序全唐詩序
+  hash: sha256:2a24da4f4a9b5a95c52ba88f16cd6cca3e563ded2258846c572ffecfcebf9cb9
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_236-1a, image: WYG1299/WYG1299-0158c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷二十目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_236.txt
+hash: sha256:36bb78657f77814131558ed3cf5d09eac054662bb1b8c3dda55b5327e03662ab

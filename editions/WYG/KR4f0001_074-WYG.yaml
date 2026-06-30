@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻三十五目錄古今體詩二十一首潞河三首廵幸出喜峯口過黄土巖大石磯塞上宴諸藩入喜峯口野望夏日迎薰亭午日潭柘寺戒壇卧松早秋新霽夜坐瀛臺天津通恵河閱運艘滇平宫門聽政示閣部諸臣昇平嘉宴同羣臣賦詩用柏梁體并序元夜與諸王宴飲乾清宫
+  hash: sha256:25398f813ab436aa779af5e2e1a9dce20621957a23a24ce404ed3f8587d226c5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_074-1a, image: WYG1298/WYG1298-0280a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷三十五目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_074.txt
+hash: sha256:16d765d8e6b9481b12346d4426973efcf064c298c4f67596a16354687e7f78a1

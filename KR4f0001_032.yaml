@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷十四目録敕諭諭戶兵二部諭吏兵二部諭吏部諭刑部諭戶部諭戶部諭九卿詹事科道諭大學士勒德洪明珠王熙吳正治宋德宜學士席柱喇巴克馬爾圖圖納席爾達牛鈕金汝祥吳興祖王鴻緒范承勳諭大學士勒德洪等諭戶部諭大學士明珠王熙諭大學士明珠諭大學士明珠王熙諭大學士明珠尚書介山諭大學士明珠總督王新命諭江南江西總督江蘇巡撫諭吏部尚書伊桑阿諭江南大小諸臣
+  hash: sha256:c81e363bd377720a8dc3c3998cae83f663b1c10b7b2984da490f411b406cd1d0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_032-1a, image: WYG1298/WYG1298-0143a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷十四目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_032.txt
+hash: sha256:00884f7bbd1afaf9c30d86b3b260b485c5f834a7b1a1b0bbaf9726ee4f87da5c

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/246
+seq: 246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十五目録碑文重修菩薩頂碑文和碩裕憲親王碑文和碩恭親王常寧碑文太子太傅都統三等公議政大臣吏部尚書中和殿大學士佐領贈少保仍兼太子太傅諡文襄圖海碑文武英殿大學士兼吏部尚書佐領加二級諡文清阿蘭泰碑文文訓飭士子文頌唯天為大頌並序贊上帝閣贊為七十八歲老人光輪像贊
+  hash: sha256:ab3e2f98204256dd38d021c9b70718f94133ccdefac07e88ae3f246236bb5f3c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_246-1a, image: WYG1299/WYG1299-0191a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷二十五目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_246.txt
+hash: sha256:60b137a07eecc7ae4fe7da4200ed1d5880ce5d46004ed0e5c53f37577a783ccb

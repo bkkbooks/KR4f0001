@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/356
+seq: 356
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十八目録雜著康熙幾暇格物編文章體道親切惟有朱子回子地産絲䝉古居處有定白龍堆水多伏流同聲相應回子多元子孫阿霸垓鹽絫黍溫泉熬水朝鮮紙飛狐馬口柴
+  hash: sha256:57c3fd5b537e12fbd45b90cca8fc054628764a5cc9cf5be084b13779caec4a01
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_356-1a, image: WYG1299/WYG1299-0580a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷二十八目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_356.txt
+hash: sha256:a93739958f560b65451af75f5525571dc0c81e7a1ce520793d0d10d5fbc9f2e0

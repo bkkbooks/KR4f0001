@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十七目錄雜著講筵緒論計三十九則
+  hash: sha256:a48965f5b5e26e0439cf300ab7263502e1ae87c84dbdad11e205054ea5bc8a79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_058-1a, image: WYG1298/WYG1298-0228a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十七目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_058.txt
+hash: sha256:d8eac7cbf397c021b4c736cb2360cbdabb3a42d37fbed0f10ea2c3e14aa426f9

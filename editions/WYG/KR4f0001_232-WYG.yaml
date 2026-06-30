@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/232
+seq: 232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻十八目録勅諭諭户部諭户部諭大學士温達陳廷敬蕭永藻等諭大學士温達李光地蕭永藻諭禮部諭内閣諭内閣諭户部等衙門諭大學士温達等諭禮部詔恩詔
+  hash: sha256:f60056f4b53b15e59f38ae2bb8a676b53c20601c68b0bb1d741f3f37666ca770
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_232-1a, image: WYG1299/WYG1299-0148a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷十八目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_232.txt
+hash: sha256:f2b4f605f8b8bf8c3977be68dd6fab42bacc15766a64d4abb3ddac5e43ce36af

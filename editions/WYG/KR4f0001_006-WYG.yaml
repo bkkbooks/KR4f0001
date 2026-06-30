@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷一目録勅諭諭戸部諭吏兵二部諭吏部諭吏部諭戸部諭吏兵刑三部諭吏兵二部諭戸部諭宗人府諭刑部諭刑部諭吏部諭吏部諭宗人府吏兵二部諭禮部諭兵刑二部諭兵部諭吏部諭吏部諭吏兵二部諭吏部諭戸部諭吏部諭吏兵二部
+  hash: sha256:025c39f4e2dbb695f696d0eaec8157f9c398f9b7637c7b95a2cb04dbefa2923a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_006-1a, image: WYG1298/WYG1298-0037a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_006.txt
+hash: sha256:ab88cb6ea112d25ec78b405bc14c29ba0fff2e284adce22551e8b5f07ca5cf2e

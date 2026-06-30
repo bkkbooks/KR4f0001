@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷二十四目錄北征勅諭諭皇太子十五條
+  hash: sha256:bdb6608c2f8b6e01a56d98ad9e8fb688d681ee758907a525e1b3cb076c4e5e25
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_138-1a, image: WYG1298/WYG1298-0557a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷二十四目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_138.txt
+hash: sha256:2e30213dbb607676794f7e23a80f621d550cfd5a2257cb0dd9328be83eed59dc

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十三目録碑南臺普濟寺碑西臺法雷寺碑北臺靈應寺碑賜江南江西總督于成龍墓碑至聖先師孔子廟碑孟子廟碑
+  hash: sha256:0f510f8a29a2cc3793cf4cd9ef7de5b1215314305bd9d9ded45104180af56d25
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_050-1a, image: WYG1298/WYG1298-0208a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十三目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_050.txt
+hash: sha256:fe99e659ba4308e51842b0ea1b29fde449d77acb2027b4d8086ff0767683b37e

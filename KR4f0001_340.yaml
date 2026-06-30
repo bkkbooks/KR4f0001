@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/340
+seq: 340
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十目録敕諭諭乾清門頭等侍衛拉錫諭領侍衛內大臣侍衛等八旗都統前鋒統領護軍統領副都統參領等內閣九卿詹事科道直𨽻巡撫守道諭內閣九卿等詔恩詔遺詔
+  hash: sha256:9dc13c5851936b4e25e92f82085b000fdf65ef51f71261aa7fc517d7714bc921
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_340-1a, image: WYG1299/WYG1299-0525c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第四集卷二十目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_340.txt
+hash: sha256:f11853fe03800ae061f5d3d7b9aae08dbdb2825ed63ccc9561295c891528b9a3

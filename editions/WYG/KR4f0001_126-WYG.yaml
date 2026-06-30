@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/126
+seq: 126
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷十八目錄勅諭諭户部諭總督于成龍諭刑部諭户部諭吏部諭吏户兵三部諭户部諭刑部諭吏部諭戸部諭户禮二部諭户部諭戸部諭内閣九卿詹事科道諭户部諭户部諭吏部諭户部諭户部
+  hash: sha256:e641333b78799f04cbc88cc316db97e4f2a04db34f543a7afba3c3d6dba8d8a8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_126-1a, image: WYG1298/WYG1298-0508c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷十八目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_126.txt
+hash: sha256:52137ba70d1ddd140b91afeb8fb2f7c7181701dae91b5920ac7f0be7bc5312b1

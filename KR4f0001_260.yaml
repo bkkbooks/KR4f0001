@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/260
+seq: 260
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷三十二目録雜著古文評論計八十二條
+  hash: sha256:3d77e7101b3fc4a42eb1559c86d098a981210d8f1ce4bcf426f49ad3224969f8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_260-1a, image: WYG1299/WYG1299-0245a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷三十二目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_260.txt
+hash: sha256:9fb85fe88c2c766070d7b44728c0bfec4484bfaddd60431d35a7f208671ab906

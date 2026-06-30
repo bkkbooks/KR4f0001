@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/krp/v1/juan/198
+seq: 198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷一目録敕諭諭河道總督于成龍諭河道總督于成龍諭河道總督張鵬翮諭工部諭河道總督張鵬翮諭大學士伊桑阿馬齊諭大學士伊桑阿馬齊諭工部諭工部諭户部等部諭禮部諭大學士伊桑阿馬齊王熙吳琠熊賜履張英學士滿都邵穆布巢可托舒祿范承烈王九齡曹鑑倫諭內閣諭工部諭內閣諭九卿等諭直隸巡撫李光地諭大學士伊桑阿等諭大學士伊桑阿等諭大學士伊桑阿馬齊
+  hash: sha256:0261116e35dc052e903cdd2ff5cf3cf5a9716fe0389c4d744e3580ee14d15a7b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_198-1a, image: WYG1299/WYG1299-0028a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第三集卷一目錄
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_198.txt
+hash: sha256:c2c18cb77ee78f93a48729056dc67f695676cbc13ecb5e5b1cdf884643478408

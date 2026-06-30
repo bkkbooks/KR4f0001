@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十八目録雜著書座右四則讀大學讀性理大全跋皇考世祖章皇帝御書正大光明四字後恭跋世祖章皇帝御書陋室銘後跋資政要覽跋王右軍書曹娥碑真蹟跋王羲之快雪時晴帖跋董其昌書跋董其昌書跋董其昌書書宋搨淳化閣帖後訓學篇
+  hash: sha256:f5c0e4c51afcba24ba0612e89d8f8b8ae6125f883ed7ec5001cf4b89b8d52c82
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_060-1a, image: WYG1298/WYG1298-0234a.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 卷二十八目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_060.txt
+hash: sha256:adf004611660bc7f3f2a5387666316c9c1f1907a8c84a947f9e63a8efa8f02ad

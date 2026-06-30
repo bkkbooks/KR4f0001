@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0001/WYG/v1/juan/152
+seq: 152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十一目錄序日講詩經觧義序日講春秋觧義序日講禮記觧義序孝經衍義序經筵講章序日講通鑑觧義序
+  hash: sha256:3922f122b3587ae79cf057bc031b958430420574e17a98b84e55ffe40e5257eb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_152-1a, image: WYG1298/WYG1298-0632c.png}
+metadata:
+  title: 聖祖仁皇帝御製文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:47.842780'
+  juan_title: 第二集卷三十一目録
+  source:
+    repository: kanripo
+    path: KR4f0001/KR4f0001_152.txt
+hash: sha256:deb7b311efeab1215c0dbafbf2ff48ff4fbb79ef51d0973c50c70fff4520dc3b
