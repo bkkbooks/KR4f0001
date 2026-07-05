@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集卷十八目録論禮樂論居敬行簡論農桑論讀書貴毋自欺論讀書貴有恆論王道論過金陵論勤儉論辨王霸辨
-  hash: sha256:862164cbd0136d8b8a795c293b381682c2892387c5f511121b79739108c5148f
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻十八目録論禮樂論居敬行簡論農桑論讀書貴毋自欺論讀書貴有恒論王道論過金陵論勤儉論辯王霸辯
+  hash: sha256:f88010fe6dfc7c1e77e2bf1b58c7061f3dd306cef09fc1c0e724303e5541319e
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_040-1a, image: WYG1298/WYG1298-0177a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_040.txt
-hash: sha256:09f4e32db3beb8f7fff7a339e2bd333ecc30fd749989c9c4a099b058a34e86d8
+hash: sha256:64f736c64b67926c98fd54c31099c1f4512d20714d98988905bf05224c673fe8

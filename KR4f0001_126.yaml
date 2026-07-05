@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷十八目録敕諭諭户部諭總督于成龍諭刑部諭户部諭吏部諭吏户兵三部諭户部諭刑部諭吏部諭戶部諭户禮二部諭户部諭戶部諭內閣九卿詹事科道諭户部諭户部諭吏部諭户部諭户部
-  hash: sha256:b0874d9f18a30299382774c1268a1d9a350cf89a9c5aa3ed39913c304650ec8f
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷十八目錄勅諭諭户部諭總督于成龍諭刑部諭户部諭吏部諭吏户兵三部諭户部諭刑部諭吏部諭戸部諭户禮二部諭户部諭戸部諭内閣九卿詹事科道諭户部諭户部諭吏部諭户部諭户部
+  hash: sha256:e641333b78799f04cbc88cc316db97e4f2a04db34f543a7afba3c3d6dba8d8a8
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_126-1a, image: WYG1298/WYG1298-0508c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_126.txt
-hash: sha256:85d55a4a3ae1c35a69f16e3a0f4c20d6d26da9ca741056da8cb40ab7393ae198
+hash: sha256:fab0c16dca7f711b5a74da45626f399f1a44ff3b73e58f891429f97a65aa5942

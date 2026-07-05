@@ -12,13 +12,11 @@ markers:
 
       ', id: KR4f0001_krp_304-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_304-1a02}
-  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
   - {type: 'kr:newline', offset: 21, content: '
 
       ', id: KR4f0001_krp_304-bkkkrnewl3}
   - {type: line-break, offset: 21, content: '', id: KR4f0001_WYG_304-1a03}
   - {type: indent, offset: 21, content: 　　, id: KR4f0001_krp_304-bkkind2}
-  - {type: substitution, offset: 21, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4438}}
   - {type: 'kr:newline', offset: 23, content: '
 
       ', id: KR4f0001_krp_304-bkkkrnewl4}
@@ -29,7 +27,6 @@ markers:
       ', id: KR4f0001_krp_304-bkkkrnewl5}
   - {type: line-break, offset: 26, content: '', id: KR4f0001_WYG_304-1a05}
   - {type: indent, offset: 26, content: 　　　, id: KR4f0001_krp_304-bkkind4}
-  - {type: substitution, offset: 29, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0267}}
   - {type: 'kr:newline', offset: 34, content: '
 
       ', id: KR4f0001_krp_304-bkkkrnewl6}
@@ -79,7 +76,6 @@ markers:
       ', id: KR4f0001_krp_304-bkkkrnewl15}
   - {type: line-break, offset: 142, content: '', id: KR4f0001_WYG_304-1b06}
   - {type: indent, offset: 142, content: 　　　, id: KR4f0001_krp_304-bkkind13}
-  - {type: substitution, offset: 149, original: 塲, replacement: 場, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0143}}
   - {type: 'kr:newline', offset: 161, content: '
 
       ', id: KR4f0001_krp_304-bkkkrnewl16}
@@ -128,4 +124,4 @@ markers:
 
       ', id: KR4f0001_krp_304-bkkkrnewl25}
   back: []
-hash: sha256:c45c5b72323562afa0d5a052d2d82b429bed3ad72639a1c962a6214e8f888814
+hash: sha256:b3ad20a9d3547c6ed5dacf340c6e237560692889c70135adae0b7964edcd01b6

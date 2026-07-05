@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集卷十九目録序性理大全序文獻通考序日講四書解義序日講書經解義序日講易經解義序重刻番藏經序古文淵鑑序
-  hash: sha256:56b07f2cb3725ea569890830d0857ce676bc890110b1210f1b465be4e3b5431c
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻十九目録序性理大全序文獻通考序日講四書解義序日講書經解義序日講易經解義序重刻番藏經序古文淵鑑序
+  hash: sha256:97a9a506ec18c51160c27d6c5ca242898851b960af43203bb58ef3569d48b468
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_042-1a, image: WYG1298/WYG1298-0184a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_042.txt
-hash: sha256:9567052ec3227351bfd539110c5987572746c413d611cfa3ddc1f947d8299de5
+hash: sha256:808a3cabf48eef4f3569236182432b7b3fd7598e35fcd664245ffa5ddd79d643

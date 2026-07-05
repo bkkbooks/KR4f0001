@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十二目録碑聖感寺碑賜一等公遏必隆家廟碑黑龍潭重建龍王廟碑賜廣西巡撫馬雄鎮墓碑賜福建總督范承謨墓碑中臺演教寺碑東臺望海寺碑
-  hash: sha256:39863286fe1333e135b64d901914542b391a2d5e99c76f86c12bc6813573f7ec
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十二目録碑聖感寺碑賜一等公遏必隆家廟碑黒龍潭重建龍王廟碑賜廣西廵撫馬雄鎭墓碑賜福建總督范承謨墓碑中臺演教寺碑東臺望海寺碑
+  hash: sha256:f75f364d8c790b5c30c86d7d2cb0fb55014e3b39da0457b01d07ff583cd56424
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_048-1a, image: WYG1298/WYG1298-0204a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_048.txt
-hash: sha256:47d29bdd615f57dc18eb5462eb4dbbc595277a4623d5a618fac70c27bbacf9dc
+hash: sha256:27e413367d9547598596eed8719e18e9de95f7cdd266a2ccee8a0eaeb2a0ac13

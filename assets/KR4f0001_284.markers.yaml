@@ -12,8 +12,6 @@ markers:
 
       ', id: KR4f0001_krp_284-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_284-1a02}
-  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
-  - {type: substitution, offset: 22, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'kr:newline', offset: 23, content: '
 
       ', id: KR4f0001_krp_284-bkkkrnewl3}
@@ -44,7 +42,6 @@ markers:
       ', id: KR4f0001_krp_284-bkkkrnewl8}
   - {type: line-break, offset: 40, content: '', id: KR4f0001_WYG_284-1a08}
   - {type: indent, offset: 40, content: 　　　　, id: KR4f0001_krp_284-bkkind7}
-  - {type: substitution, offset: 42, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: 'kr:newline', offset: 47, content: '
 
       ', id: KR4f0001_krp_284-bkkkrnewl9}
@@ -54,7 +51,6 @@ markers:
       ', id: KR4f0001_krp_284-bkkkrnewl10}
   - {type: line-break, offset: 47, content: '', id: KR4f0001_WYG_284-1b01}
   - {type: indent, offset: 47, content: 　　　　, id: KR4f0001_krp_284-bkkind8}
-  - {type: substitution, offset: 48, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: 'kr:newline', offset: 54, content: '
 
       ', id: KR4f0001_krp_284-bkkkrnewl11}
@@ -109,4 +105,4 @@ markers:
 
       ', id: KR4f0001_krp_284-bkkkrnewl20}
   back: []
-hash: sha256:cd3896539241775a67bf1eb85cc6c5b72375a468cd0eadeceb8f0477bdf95437
+hash: sha256:d9d7cb47bb329179204ec1e2322f5253e4c2b1b9b8461fde11b64b87d7f5c99d

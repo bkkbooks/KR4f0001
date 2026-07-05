@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十三目録記刈麥記碑記顯應寺碑記􅀢髻山玉皇閣碑記湯山龍尊王佛廟碑記碑文資福院碑文溥仁寺碑文彚宗寺碑文平定西藏碑文
-  hash: sha256:2889519bc642dfd52ee17eee10354e666778a98f02fa6b641de1b894d6d39abb
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十三目録記刈麥記碑記顯應寺碑記􅀢髻山玉皇閣碑記湯山龍尊王佛廟碑記碑文資福院碑文溥仁寺碑文彚宗寺碑文平定西藏碑文
+  hash: sha256:c487e94deb1150e31e99c899020d6bd152f2e92d10c64c6b8976cafac59ff7fc
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_346-1a, image: WYG1299/WYG1299-0542a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_346.txt
-hash: sha256:02b4679663acc6bf069b4b9d1301bb65662006b075858b5264a76ecadb600183
+hash: sha256:8ffac05633719dad07a9a13e72f0750dec853f1f670e0f0790d99e30d3dc9ca5

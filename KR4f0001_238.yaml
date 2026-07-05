@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十一目録序資治通鑑綱目全書序佩文韻府序淵鑑類函序歷代賦彚序清凉山新志序四朝詩選序
-  hash: sha256:137d42f46b1ad5fc23b013487ae10d695734f9c6b943be0a6dc7fd99105c9f85
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻二十一目録序資治通鑑綱目全書序佩文韻府序淵鑑類函序歴代賦彚序清凉山新志序四朝詩選序
+  hash: sha256:07b5b87bd1538a1653957af1512878730b4dff9077d84d24a8392ae70a4bf6c4
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_238-1a, image: WYG1299/WYG1299-0165a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_238.txt
-hash: sha256:28e0dfd1722fc6966e5d963540fec951179b2609ddb3e62d9b2b0de95786bf91
+hash: sha256:44b72af972070d7d4af2ad6a254c0045cbe38fe80e8a6f30bfce3281d58f8100

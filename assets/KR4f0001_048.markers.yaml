@@ -12,7 +12,6 @@ markers:
 
       ', id: KR4f0001_krp_048-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_048-1a02}
-  - {type: substitution, offset: 15, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
   - {type: 'kr:newline', offset: 21, content: '
 
       ', id: KR4f0001_krp_048-bkkkrnewl3}
@@ -33,14 +32,11 @@ markers:
       ', id: KR4f0001_krp_048-bkkkrnewl6}
   - {type: line-break, offset: 36, content: '', id: KR4f0001_WYG_048-1a06}
   - {type: indent, offset: 36, content: 　　　　, id: KR4f0001_krp_048-bkkind5}
-  - {type: substitution, offset: 36, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3297}}
   - {type: 'kr:newline', offset: 45, content: '
 
       ', id: KR4f0001_krp_048-bkkkrnewl7}
   - {type: line-break, offset: 45, content: '', id: KR4f0001_WYG_048-1a07}
   - {type: indent, offset: 45, content: 　　　　, id: KR4f0001_krp_048-bkkind6}
-  - {type: substitution, offset: 48, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0267}}
-  - {type: substitution, offset: 52, original: 鎭, replacement: 鎮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3616}}
   - {type: 'kr:newline', offset: 55, content: '
 
       ', id: KR4f0001_krp_048-bkkkrnewl8}
@@ -64,4 +60,4 @@ markers:
 
       ', id: KR4f0001_krp_048-bkkkrnewl12}
   back: []
-hash: sha256:21c873cbd0b95379f152b2f4689c81fe629efd1bedc2bff75311cafea33438c3
+hash: sha256:fb6f5dbdd876cda54cff1d06ae1c260507a4804c6436ecb6bad0014c872636c8

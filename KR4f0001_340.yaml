@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十目録敕諭諭乾清門頭等侍衛拉錫諭領侍衛內大臣侍衛等八旗都統前鋒統領護軍統領副都統參領等內閣九卿詹事科道直𨽻巡撫守道諭內閣九卿等詔恩詔遺詔
-  hash: sha256:9dc13c5851936b4e25e92f82085b000fdf65ef51f71261aa7fc517d7714bc921
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十目錄勅諭諭乾清門頭等侍衛拉錫諭領侍衛内大臣侍衛等八旗都統前鋒統領䕶軍統領副都統叅領等内閣九卿詹事科道直𨽻廵撫守道諭内閣九卿等詔恩詔遺詔
+  hash: sha256:cf9ae8b319b966e2160d23f1af0094f990a73baedca117cd7c40de6b438c6c03
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_340-1a, image: WYG1299/WYG1299-0525c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_340.txt
-hash: sha256:f11853fe03800ae061f5d3d7b9aae08dbdb2825ed63ccc9561295c891528b9a3
+hash: sha256:d6b5b08dd67a42ce32427e9fa700bf68dc90205a4aff4a467f175492e443e172

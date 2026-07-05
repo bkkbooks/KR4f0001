@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷一目録敕諭諭滿漢大學士九卿等諭大學士九卿諭大學士溫達等諭吏部諭大學士溫達等諭大學士九卿諭大學士九卿諭兵部諭大學士溫達等諭內閣諭禮部諭湖廣總督鄂海等諭户部諭吏部諭大學士溫達李光地王掞等諭九卿
-  hash: sha256:1b0b5d6346d680ef1684732d2c8470938a6337344f462ca7b703d4328783ffe4
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻一目録勅諭諭滿漢大學士九卿等諭大學士九卿諭大學士溫達等諭吏部諭大學士溫達等諭大學士九卿諭大學士九卿諭兵部諭大學士溫達等諭内閣諭禮部諭湖廣總督鄂海等諭户部諭吏部諭大學士溫達李光地王掞等諭九卿
+  hash: sha256:ec53aba7b9b0c8b4113c5ee6573e1d228bd62a545349ae3b56afcd0d3dca6135
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_302-1a, image: WYG1299/WYG1299-0399a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_302.txt
-hash: sha256:06967a532b90b0d20b5964ce35d9ba1448e7d0ac39d0c02ce0a245b201184167
+hash: sha256:f9f6a575dc7734f404eb07229f115ad7f27ad419a9afad0b1d185ead87b5b677

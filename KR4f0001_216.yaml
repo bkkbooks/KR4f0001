@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷十目録敕諭諭兵部諭雲南巡撫郭瑮諭大學士馬齊席哈納張玉書陳廷敬等諭內閣諭刑部諭內閣諭户部諭修國史諸臣諭户工二部諭內閣諭內閣諭刑部諭刑部諭户部諭刑部諭刑部諭內閣諭武殿試讀卷官等諭武殿試讀卷官等諭吏部尚書溫達諭內閣諭內閣
-  hash: sha256:5e98bf8ad435013855d91f2492bc636fb28efe5c2dce1a09f66e8d0a1fb30c26
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻十目録勅諭諭兵部諭雲南巡撫郭瑮諭大學士馬齊席哈納張玉書陳廷敬等諭内閣諭刑部諭内閣諭户部諭修國史諸臣諭户工二部諭内閣諭内閣諭刑部諭刑部諭户部諭刑部諭刑部諭内閣諭武殿試讀巻官等諭武殿試讀巻官等諭吏部尚書温達諭内閣諭内閣
+  hash: sha256:deed83c9077a5168959fabee8585c96e37976473aaf0422890127d11e241a469
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_216-1a, image: WYG1299/WYG1299-0091a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_216.txt
-hash: sha256:8a73ca786a2e41b29835e8499e58de7b69df2092899e79cc9278a2f3df1ceda7
+hash: sha256:ca07e68cb0ad668f05a80a7a18315de0e7b0ce01c61e9a1ea885c125a770b80b

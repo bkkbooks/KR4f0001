@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十目録論博約一貫論王道近民論業廣惟勤論亷靜論論兵論息兵安民說太極圖說小學課士說樂府說捕蝗說製硯說解四維解
-  hash: sha256:bdc1a15e31f11f507aa93af27caf07177e165c7707070e2d6cc3f98da717dbfc
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十目錄論博約一貫論王道近民論業廣惟勤論亷静論論兵論息兵安民説太極圖説小學課士説樂府説捕蝗説製硯説觧四維解
+  hash: sha256:66afa991a931a1876bf4f5fc92a1aac436f1f4edd50e22fb7af6b47b30314931
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_150-1a, image: WYG1298/WYG1298-0622a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_150.txt
-hash: sha256:9e27c01576418afe8dbc2842bac2656f1c69e4361bb8eccba7092ab6d39444e2
+hash: sha256:58f9f520820769b3f44508e37b5a1ff3dc82898138b816b374f00f2d445ac9a3

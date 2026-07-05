@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集卷三十五目録古今體詩二十一首潞河三首巡幸出喜峯口過黃土巖大石磯塞上宴諸藩入喜峯口野望夏日迎薰亭午日潭柘寺戒壇卧松早秋新霽夜坐瀛臺天津通惠河閲運艘滇平宫門聽政示閣部諸臣升平嘉宴同羣臣賦詩用柏梁體并序元夜與諸王宴飲乾清宫
-  hash: sha256:40c794241b76c340d4b1de0b3d30b82f619f009a52b6b515eabba2673bca361f
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻三十五目錄古今體詩二十一首潞河三首廵幸出喜峯口過黄土巖大石磯塞上宴諸藩入喜峯口野望夏日迎薰亭午日潭柘寺戒壇卧松早秋新霽夜坐瀛臺天津通恵河閱運艘滇平宫門聽政示閣部諸臣昇平嘉宴同羣臣賦詩用柏梁體并序元夜與諸王宴飲乾清宫
+  hash: sha256:25398f813ab436aa779af5e2e1a9dce20621957a23a24ce404ed3f8587d226c5
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_074-1a, image: WYG1298/WYG1298-0280a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_074.txt
-hash: sha256:9bcbbf8478cb4f7ed536cb03cbb75ce30bb48a2767b3c47ce5186be619241dd2
+hash: sha256:5c98cf9a977b6b71e04f2bdc7c2728446d1022fd230b24753cf7b27e06fd386c

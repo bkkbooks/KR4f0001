@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十七目録雜著親征漠北紀略下
-  hash: sha256:976d9369a8a7df770b73fb45722f15903b8ea11e247a740e6532cdde33717532
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十七目錄雜著親征漠北紀略下
+  hash: sha256:3e0ca17b224c370622477585835cd02580dd8ecd7b8ccf6f37a104c56f010501
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_164-1a, image: WYG1298/WYG1298-0678a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_164.txt
-hash: sha256:ee7b64135667eb592897891f43cdd6551ece7660e21dc94d40feabae9ed336cb
+hash: sha256:0d1407feefbd4b7aa62c70e98757367f2736142b6a31e62ad239031524b4502e

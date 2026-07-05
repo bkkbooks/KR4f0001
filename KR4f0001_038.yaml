@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集卷十七目録表上太皇太后進衣表上太皇太后萬壽表上太皇太后萬壽表論愼幾微論無逸以致壽論君臣一體論寬嚴論愼刑論學校論
-  hash: sha256:e87d09fa4bb7c5d8b480784e0a4ca0729bce236aa6b95ada4cbd2403a48a1e81
+  text: 欽定四庫全書聖祖仁皇帝御製文集巻十七目録表上太皇太后進衣表上太皇太后萬壽表上太皇太后萬壽表論愼幾微論無逸以致壽論君臣一體論寛嚴論愼刑論學校論
+  hash: sha256:f0addfc1847dc29cec8f629718960e535077f278a11fa995d60fdb5c3c8d5105
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_038-1a, image: WYG1298/WYG1298-0170a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_038.txt
-hash: sha256:f211453d1fc58cecb089b05287e3e39c013d2fefa492d2a63251ab0c5b583f71
+hash: sha256:3153efd7dfd116bcc6d5f7422515829900ff85e87c93724c3737d9552ff9f375

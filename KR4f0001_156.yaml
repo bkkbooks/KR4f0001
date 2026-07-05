@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十三目録記恭侍皇太后駕臨金山記創興盛京海運記海運賑濟朝鮮記暢春園記萼輝園記
-  hash: sha256:289388cb193657d7fff9d3ce9f92600d06d21a5b5c130b0467efa1829420c5b5
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十三目錄記恭侍皇太后駕臨金山記創興盛京海運記海運賑濟朝鮮記暢春園記萼輝園記
+  hash: sha256:ca8adb5cb08fd3fa09fa9a13a36f4e66ef0e74737c4f436585f193b960a071bb
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_156-1a, image: WYG1298/WYG1298-0644c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_156.txt
-hash: sha256:47aef4efe11cd148d152ba46a2178d4bdf6ddedcc321c2f6a159d938594c1f29
+hash: sha256:92b04387665732c1108296df5c9e2dd036b11f6fc86495e84b988daf9b9c171d

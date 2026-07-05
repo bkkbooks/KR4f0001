@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十五目録頌祈榖壇頌有序二典頌有序禹陵頌有序贊王右軍洗硯池贊有序石鼓贊有序針河臣針漕臣針臺省針太常針提鎮針銘淵鑒齊銘佩文齊銘知稼軒銘察罕七羅勒石銘拖諾山勒石銘昭木多勒石銘狼居胥山勒石銘
-  hash: sha256:c1d49254d12aeae37216afb5a4ac4734f4ad6a28d95dbede97f3a95656da2026
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十五目錄頌祈榖壇頌有序二典頌有序禹陵頌有序贊王右軍洗硯池贊有序石鼓贊有序箴河臣箴漕臣箴臺省箴太常箴提鎮箴銘淵鑒齋銘佩文齋銘知稼軒銘察罕七羅勒石銘拖諾山勒石銘昭木多勒石銘狼居胥山勒石銘
+  hash: sha256:29dcfda0505d10a57a2bd55a1b724762c40caa65c1860669090362218d7c7f32
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_160-1a, image: WYG1298/WYG1298-0660a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_160.txt
-hash: sha256:4b7ce6fb283d2c01fecc0a351bbe87cb579d469fe78569ab1610196c7510a34c
+hash: sha256:f0966cd2b4cd786043ca150007e9c901be95011dce87fe13b47a53da08205b22

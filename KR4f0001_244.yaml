@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十四目録碑文五臺山棲賢寺碑文五臺山顯通寺碑文五臺山湧泉寺碑文五臺山廣宗寺碑文五臺山白雲寺碑文東嶽廟碑文穹覽寺碑文北鎮廟碑文隆興寺碑文重修西頂廣仁宫碑文
-  hash: sha256:43bdd804d2f3ab8fa1e39d3b5362dde27d8ca224b0b3ea3e5b46c515c800893c
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十四目錄碑文五臺山棲賢寺碑文五臺山顯通寺碑文五臺山湧泉寺碑文五臺山廣宗寺碑文五臺山白雲寺碑文東嶽廟碑文穹覽寺碑文北鎮廟碑文隆興寺碑文重修西頂廣仁宫碑文
+  hash: sha256:acb31e8176b3bc368145e9c1209b88714436046c305a2d5d5b7fecbe23b1be3e
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_244-1a, image: WYG1299/WYG1299-0184a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_244.txt
-hash: sha256:c9d216a52692d0e8bb6a6903bba5c1c3be100f47ca6edd7f570814d0fc59132b
+hash: sha256:7498bafb9634814fbbfc338193d01e0a34f8213b3444f2e54c237f7d6c42a836

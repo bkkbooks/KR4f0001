@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷十九目録論宋髙宗父母之讐終身不雪論三角形推算法論量天尺論
-  hash: sha256:7669079e8be0a19355119e53ee491463ec4391f54f741094474093d4cfbfeed3
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻十九目録論宋髙宗父母之讐終身不雪論三角形推算法論量天尺論
+  hash: sha256:98345e2749fccaacd66ffb56c07f9d855f9658f95d326a450fd30b504b5dfe46
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_234-1a, image: WYG1299/WYG1299-0154a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_234.txt
-hash: sha256:6d6cf3e3783a308ad6ba0996fe5b11b371c7951964c57405cf9f215b8f5b59bd
+hash: sha256:a2351e9023777795fbd1e3e3b409097970922ad952afe5cb0182b74401c15aa6
