@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻十四目録勅諭諭九卿詹事科道諭兵部諭工部諭内閣諭吏部諭户部諭刑部諭内閣諭户部諭刑部諭浙江巡撫黃秉中諭兵部諭宗人府諭兵部諭刑部諭兵部諭内閣九卿等
-  hash: sha256:824e780f4856f1c21f4c0b06b49bf0fd262a26278faa3c0f2a14444344bd1504
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷十四目録敕諭諭九卿詹事科道諭兵部諭工部諭內閣諭吏部諭户部諭刑部諭內閣諭户部諭刑部諭浙江巡撫黃秉中諭兵部諭宗人府諭兵部諭刑部諭兵部諭內閣九卿等
+  hash: sha256:da556f8a552baaaadbc03ca7ad1f6102b1b827154334e197f2392eeeef3b04f5
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_224-1a, image: WYG1299/WYG1299-0118c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_224.txt
-hash: sha256:d5f6a0bd60c75c317ae841947de9e6ef0b8f45015df0322f635eea10dacc4acb
+hash: sha256:996c40fea6ec5e079ef15ee779225462cfc73729b2b3ef5bce3b0820ec180809

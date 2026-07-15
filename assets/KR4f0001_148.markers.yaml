@@ -12,6 +12,8 @@ markers:
 
       ', id: KR4f0001_krp_148-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_148-1a02}
+  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
+  - {type: substitution, offset: 22, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 23, content: '
 
       ', id: KR4f0001_krp_148-bkkkrnewl3}
@@ -121,4 +123,4 @@ markers:
 
       ', id: KR4f0001_krp_148-bkkkrnewl25}
   back: []
-hash: sha256:d3ad481ca08ee91d1d555473a4ee7001dbf4d63f5ec6aac0c64cf0d095a9c17b
+hash: sha256:a8b60fa65069fc31ba2ddcbbe66f13b35c2174d03bc9293cc59e28852cca9933

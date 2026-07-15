@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻四十四目錄雜著題劉松年畫論韻府刻本跋書大學跋跋道徳仁藝扁後跋徳業仁義扁後跋都俞吁咈扁後跋書草訣百韻後祭文告祈榖壇祭文賦桑賦并序蓴賦并序
-  hash: sha256:3c24a6c2cfbf4334a1d795daed9cfb7a7d89aceabfb845549ad7e5940444272d
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷四十四目録雜著題劉松年畫論韻府刻本跋書大學跋跋道德仁藝扁後跋德業仁義扁後跋都俞吁咈扁後跋書草訣百韻後祭文告祈榖壇祭文賦桑賦并序蓴賦并序
+  hash: sha256:c77997dff84d9c40a14800f2f05e1b7a9c8eeb8d8f14768fee784f4ce5ceb18d
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_284-1a, image: WYG1299/WYG1299-0333a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_284.txt
-hash: sha256:6e3ee04aad28add1cf7063b22373fe7d226b36b33025db55e6e15d930e4c1321
+hash: sha256:8d87e8877804f768563b9e76e7dcfbd7158151025c933330ba13bd7f88a03455

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十九目録雜著書通鑑綱目後閲皇明祖訓偶書紀苖事書蘭亭帖後讀楚辭喻馬連珠有序祭文祭明太祖文祭至聖先師孔子文祭元聖周公文諭祭江南江西總督于成龍文諭祭江南江西總督于成龍第二道文
-  hash: sha256:96bbda80a29f8931f7f7d2c0e3c66e42ef0340b5b843a9ef77f676d38455f311
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十九目録雜著書通鑑綱目後閲皇明祖訓偶書紀苖事書蘭亭帖後讀楚辭喻馬連珠有序祭文祭明太祖文祭至聖先師孔子文祭元聖周公文諭祭江南江西總督于成龍文諭祭江南江西總督于成龍第二道文
+  hash: sha256:1207af4abf1ade839e0e2de94a1b2fc36b22103d6deafd277fe51a22e7d9d3f2
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_062-1a, image: WYG1298/WYG1298-0241a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_062.txt
-hash: sha256:dd04a532436383b8fe7c4a6cc4237616b71fb8c0138f766684c4062d5cceaf5b
+hash: sha256:c04f3005d52a8c723d9ff089059ee57a37b2b6405adc987e8879405e3f810e1f

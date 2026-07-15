@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻二十二目録序詠物詩選序歴代題畫詩類序歴代詩餘選序書畫譜序廣羣芳譜序記水性記黄船記避暑山莊記
-  hash: sha256:d7e6f55aef8982583ef9a6a8a3f0f2b4a4c9759a9ac3fed24d5351a7c66a398f
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十二目録序詠物詩選序歷代題畫詩類序歷代詩餘選序書畫譜序廣羣芳譜序記水性記黃船記避暑山莊記
+  hash: sha256:f2ac3d9b424bb836dd0618b78de14524265ff4a3e24ad128476ac3672c4331a7
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_240-1a, image: WYG1299/WYG1299-0171a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_240.txt
-hash: sha256:8d23ccd12160cc1bd60119961b8bbb35db0e4a522fd7701bd621f91ef77ec93c
+hash: sha256:ad2f9b666bddd0e8bc49b653ebdf6be6d15ea92a309f54274d93d10df104cbb9

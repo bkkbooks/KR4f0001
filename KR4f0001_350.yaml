@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十五目錄雜著七詢
-  hash: sha256:26b3e3809179c65596dbaad3cba8c98f00640a43057458762a2cafbdcbc8429f
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十五目録雜著七詢
+  hash: sha256:31ccdfe6077ee0249ec18ef443fb1b769aa0716ce117a40369242383d4b8310a
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_350-1a, image: WYG1299/WYG1299-0555a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_350.txt
-hash: sha256:cb32c0b9cc998d2fbf4b5a11c58f173ba13dbca4b1ecd4165e88eb964cc78bc0
+hash: sha256:dccc9dc3767cae8e5fa4eecf62d6ce29d9e2bd3d7ca731295a880ddfc91a7cc5

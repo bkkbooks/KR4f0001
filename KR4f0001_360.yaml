@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻三十目録雜著康熙幾暇格物編菓單普盤各作泥臘梌樹阿濫金光子葛仙米倒弔果林檎人中鼢䑕地震
-  hash: sha256:aafc65e84a923ab461da81a02ded542948c278ae30176f60b59015ffd030ec09
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷三十目録雜著康熙幾暇格物編果單普盤各作泥臘梌樹阿濫金光子葛仙米倒弔果林檎人中蚡鼠地震
+  hash: sha256:4040d7e3af631bcb91fa9b73fdfde347de505633a37050a7d90449c83f6c28f4
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_360-1a, image: WYG1299/WYG1299-0591c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_360.txt
-hash: sha256:3f80f63823fe9f0fcd72c7cc247c181a813ee6f25c850fa2096cd0f980a8067e
+hash: sha256:277c619bfd8a28bb4fc773df600c7fff13fa230e305be9fc56ef6dd0b344b1e5

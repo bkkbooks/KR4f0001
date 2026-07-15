@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十七目錄雜著講筵緒論計三十九則
-  hash: sha256:a48965f5b5e26e0439cf300ab7263502e1ae87c84dbdad11e205054ea5bc8a79
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十七目録雜著講筵緒論計三十九則
+  hash: sha256:afaaf6ac4c4106ecde7902f2cb67f1ee8145662674f3a30eb6c15d9abd5aa52a
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_058-1a, image: WYG1298/WYG1298-0228a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_058.txt
-hash: sha256:cd3935c499879f01bd7ceb28731a2730faee761dbfa619b9609de60a290db05d
+hash: sha256:77ebc72ab714376e353f2715118ded9d9e03aeac26b0e607e7f1e05066fe39e4

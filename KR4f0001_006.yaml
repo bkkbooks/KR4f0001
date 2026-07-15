@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集卷一目録勅諭諭戸部諭吏兵二部諭吏部諭吏部諭戸部諭吏兵刑三部諭吏兵二部諭戸部諭宗人府諭刑部諭刑部諭吏部諭吏部諭宗人府吏兵二部諭禮部諭兵刑二部諭兵部諭吏部諭吏部諭吏兵二部諭吏部諭戸部諭吏部諭吏兵二部
-  hash: sha256:025c39f4e2dbb695f696d0eaec8157f9c398f9b7637c7b95a2cb04dbefa2923a
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷一目録敕諭諭戶部諭吏兵二部諭吏部諭吏部諭戶部諭吏兵刑三部諭吏兵二部諭戶部諭宗人府諭刑部諭刑部諭吏部諭吏部諭宗人府吏兵二部諭禮部諭兵刑二部諭兵部諭吏部諭吏部諭吏兵二部諭吏部諭戶部諭吏部諭吏兵二部
+  hash: sha256:878965607505b2d396292ccc098155f2bf84bfdb6a09f2aafac30e2dde7e5159
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_006-1a, image: WYG1298/WYG1298-0037a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_006.txt
-hash: sha256:867ff47c80684dacca6a85b4349c0d656a24ebc9db6180242b1e8c21009a3b4a
+hash: sha256:f88ad53683d56849811fade44785d4b2de9962b3dcbcd3a9b0ba8d928316f07f

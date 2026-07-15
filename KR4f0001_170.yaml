@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻四十目錄雜著庭訓讀周禮書後書戰國策後書性理奥後跋虞世南墨蹟後跋顏眞卿墨蹟後跋蘇軾墨蹟後跋黃庭堅墨蹟後跋米芾墨蹟後跋朱子墨蹟後跋趙孟頫墨蹟後跋董其昌墨蹟後連珠
-  hash: sha256:8bfcfb35338c55a2a8e7c94d16884d3e8ee11064c22a6e5de7fcf27fd3ec6be8
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷四十目録雜著庭訓讀周禮書後書戰國策後書性理奧後跋虞世南墨迹後跋顏真卿墨迹後跋蘇軾墨迹後跋黃庭堅墨迹後跋米芾墨迹後跋朱子墨迹後跋趙孟俯墨迹後跋董其昌墨迹後連珠
+  hash: sha256:b506f7c318d0587e510bc76f5d874e948f5de9ce3a48f11b8715d25bef23f267
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_170-1a, image: WYG1298/WYG1298-0704a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_170.txt
-hash: sha256:00b0e2bc38585b2c76613ac62eff009cb94912782653e426a3b70416a564209d
+hash: sha256:e4f3bfe9ab01fbaa4fd304e02350b47c6ed293c685898341b25687e6367615f5

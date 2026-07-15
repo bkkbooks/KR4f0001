@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集巻三十目録賦春雨賦梧桐賦弩賦幷序夜亮木賦幷序西苑芙蕖賦松賦玉泉賦行殿讀書賦幷序竹賦幷序闕里古檜賦幷序
-  hash: sha256:b5638e397c670aff98dfe51c41d8393a0b9bc65e66077e3e41c24b2614e1ee17
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷三十目録賦春雨賦梧桐賦弩賦並序夜亮木賦並序西苑芙蕖賦松賦玉泉賦行殿讀書賦並序竹賦並序闕里古檜賦並序
+  hash: sha256:a295dc430700e8fb7dc82890ddaa1e4becfdbb09a65d6a41b3b1feaa11198546
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_064-1a, image: WYG1298/WYG1298-0246c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_064.txt
-hash: sha256:1a12b2c9900a2981566c712931faba52376fc216d1059f7a131b700fc8a1e6bb
+hash: sha256:0f31203ac49961c136c0823799b20d1390cd98cf4d96df469dae1974c848bd84

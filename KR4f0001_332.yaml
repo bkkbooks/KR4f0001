@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻十六目録勅諭諭大學士馬齊等諭大學士學士九卿詹事科道等諭滿漢文武大臣等諭大學士九卿等諭大學士馬齊等諭大學士馬齊等諭大學士馬齊等諭大學士學士九卿
-  hash: sha256:bfb75d6f8315da50bd16466f14d6029a3683f89d775bdcd31066241dfe7195db
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷十六目録敕諭諭大學士馬齊等諭大學士學士九卿詹事科道等諭滿漢文武大臣等諭大學士九卿等諭大學士馬齊等諭大學士馬齊等諭大學士馬齊等諭大學士學士九卿
+  hash: sha256:0c60e01b8c631bc903b71f7b49d76905354b78aec34a47f1af9634fc0eb0a441
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_332-1a, image: WYG1299/WYG1299-0497a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_332.txt
-hash: sha256:cbdcdcbc8cf59e2dba12b621fa5319342e5bc1bb2d40e6b17fac46854e2d961d
+hash: sha256:f2a3a548ecb37ef4f34d4c2824a70fe45e9702be573c7371d0a98a78a1deea17

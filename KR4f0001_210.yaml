@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻七目錄勅諭諭户部諭户部諭工部諭内閣諭大學士九卿等諭刑部諭内閣諭吏部諭吏户兵工四部諭工部諭刑部諭扈從大學士馬齊張玉書陳廷敬諭山東巡撫趙世顯諭河道總督張鵬翮諭河道總督張鵬翮及河工官員
-  hash: sha256:b2e3385c1cbe2595916f14b5fb5578bf4d503d04fbd6261f16fd35e3f5ef44af
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷七目録敕諭諭户部諭户部諭工部諭內閣諭大學士九卿等諭刑部諭內閣諭吏部諭吏户兵工四部諭工部諭刑部諭扈從大學士馬齊張玉書陳廷敬諭山東巡撫趙世顯諭河道總督張鵬翮諭河道總督張鵬翮及河工官員
+  hash: sha256:2a706435e945ff52f09d5061fd0c02efe3f20d81a198f38b333b425a665b96cd
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_210-1a, image: WYG1299/WYG1299-0070a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_210.txt
-hash: sha256:9ea66781c6a279b13a59fdf45d25772af1a7c893c38c295a818e1ed67a73314e
+hash: sha256:dee6211853e8b912a510c887253604e3182f6e9ef2c58c2f5ac5c6f1f0ee5bf5

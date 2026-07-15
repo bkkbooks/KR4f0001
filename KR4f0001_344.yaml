@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十二目録序御選唐詩序康熙字典序月令輯要序周易折中序春秋傳說彚纂序福建總督范承謨畫壁集序
-  hash: sha256:f69465ed3beea66b9a0515c1c0a7aaa52475153c1797d5ce87ede8f2f86fd76e
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十二目録序御選唐詩序康熙字典序月令輯要序周易折中序春秋傳説彚纂序福建總督范承謨畫壁集序
+  hash: sha256:07c93d8a33992298e621533c22344ab22e7148c46f2fcaa300a8f37c5410a101
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_344-1a, image: WYG1299/WYG1299-0537a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_344.txt
-hash: sha256:57f4fa6e8671463b23708a73df1fb94f706cb6d319a2751638093e0a34502065
+hash: sha256:5ca630ae936d5ac690b9a6b78fbbc5574ac7e0d6cf87309ea4db2ec8e43997a1

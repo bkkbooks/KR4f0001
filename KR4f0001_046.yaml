@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十一目録説為學如鍊金説老安少懷説佛牙説詩説琴説稼説操舟説解信古解八議解鄉舉里選解以德為衛解
-  hash: sha256:b8f26317a07e7a329d92b080bc9f70714d56642913e3243f558b2bc02973a3aa
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十一目録説為學如鍊金説老安少懷説佛牙説詩説琴説稼説操舟説解信古解八議解鄉舉里選解以德為衛解
+  hash: sha256:150a89bbb84fa50da103cf7c68c202e7f5d399e63b8a9325f4b828b427a3d11e
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_046-1a, image: WYG1298/WYG1298-0196c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_046.txt
-hash: sha256:00fb8706c78bb4152f9e0970723ccf87c12789f7ae4292c243765539fd9a47d2
+hash: sha256:36d9184796181f2fa2c1690a0f7ee460f22c319cedfd4abc1ccfac83335cfe53

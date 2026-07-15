@@ -12,6 +12,8 @@ markers:
 
       ', id: KR4f0001_krp_150-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_150-1a02}
+  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
+  - {type: substitution, offset: 21, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 22, content: '
 
       ', id: KR4f0001_krp_150-bkkkrnewl3}
@@ -37,6 +39,7 @@ markers:
       ', id: KR4f0001_krp_150-bkkkrnewl7}
   - {type: line-break, offset: 38, content: '', id: KR4f0001_WYG_150-1a07}
   - {type: indent, offset: 38, content: 　　　　, id: KR4f0001_krp_150-bkkind6}
+  - {type: substitution, offset: 39, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   - {type: 'kr:newline', offset: 41, content: '
 
       ', id: KR4f0001_krp_150-bkkkrnewl8}
@@ -86,6 +89,7 @@ markers:
       ', id: KR4f0001_krp_150-bkkkrnewl17}
   - {type: line-break, offset: 67, content: '', id: KR4f0001_WYG_150-1b08}
   - {type: indent, offset: 67, content: 　　, id: KR4f0001_krp_150-bkkind15}
+  - {type: substitution, offset: 67, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: 'kr:newline', offset: 68, content: '
 
       ', id: KR4f0001_krp_150-bkkkrnewl18}
@@ -99,4 +103,4 @@ markers:
 
       ', id: KR4f0001_krp_150-bkkkrnewl20}
   back: []
-hash: sha256:61e659c91fb71461fac5bb03e166b2a6eb795a830e80d7960c6f069b03924aa2
+hash: sha256:cdc68d8ddc3fc90fe487245d22c9f06cabd50fd144a66806cf141eb4bbdc60de

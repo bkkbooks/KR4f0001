@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十九目録雜著康熙幾暇格物編黄河九曲老人星趙孟頫命名九河故道楊柳風隨地殊風無正方水底有風人依土生定南針兩尺脉屬兩腎
-  hash: sha256:18b607c65fee0ad05de3250e7d50562212906f9c3c7477b106b3bd00c111fb73
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十九目録雜著康熙幾暇格物編黃河九曲老人星趙孟俯命名九河故道楊柳風隨地殊風無正方水底有風人依土生定南針兩尺脈屬兩腎
+  hash: sha256:5da9eab9f96600b2c88c2442f0749bb13d8955bd782ab50ec12eb9033ee70e20
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_358-1a, image: WYG1299/WYG1299-0586a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_358.txt
-hash: sha256:0c0fad837bdd2fae7cbe9643d4fa63cbb073bbf321976597b7cb95b24e4df3a3
+hash: sha256:27545648e7dc786ec53cc34110c74021174eb111f5942537b5cddbfa24a2ee78

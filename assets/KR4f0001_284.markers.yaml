@@ -12,6 +12,8 @@ markers:
 
       ', id: KR4f0001_krp_284-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_284-1a02}
+  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
+  - {type: substitution, offset: 22, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 23, content: '
 
       ', id: KR4f0001_krp_284-bkkkrnewl3}
@@ -42,6 +44,7 @@ markers:
       ', id: KR4f0001_krp_284-bkkkrnewl8}
   - {type: line-break, offset: 40, content: '', id: KR4f0001_WYG_284-1a08}
   - {type: indent, offset: 40, content: 　　　　, id: KR4f0001_krp_284-bkkind7}
+  - {type: substitution, offset: 42, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: 'kr:newline', offset: 47, content: '
 
       ', id: KR4f0001_krp_284-bkkkrnewl9}
@@ -51,6 +54,7 @@ markers:
       ', id: KR4f0001_krp_284-bkkkrnewl10}
   - {type: line-break, offset: 47, content: '', id: KR4f0001_WYG_284-1b01}
   - {type: indent, offset: 47, content: 　　　　, id: KR4f0001_krp_284-bkkind8}
+  - {type: substitution, offset: 48, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: 'kr:newline', offset: 54, content: '
 
       ', id: KR4f0001_krp_284-bkkkrnewl11}
@@ -105,4 +109,4 @@ markers:
 
       ', id: KR4f0001_krp_284-bkkkrnewl20}
   back: []
-hash: sha256:d9d7cb47bb329179204ec1e2322f5253e4c2b1b9b8461fde11b64b87d7f5c99d
+hash: sha256:6aa440aab1cf48415a43bd5a78fc39bbccfca972c514c7fe635af724d8a6581d

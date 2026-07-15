@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集巻二十四目録頌福陵頌幷序昭陵頌幷序孝陵頌幷序大德景福頌并序
-  hash: sha256:b398b421be07fe753db9838a79cc458cd8021e40ae25a1d0fe47d481d83e9576
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷二十四目録頌福陵頌並序昭陵頌並序孝陵頌並序大德景福頌并序
+  hash: sha256:c3f44e04451aad626999312c6b5408f168c083b6ae88fe4ef2786ddfb0596118
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_052-1a, image: WYG1298/WYG1298-0212a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_052.txt
-hash: sha256:976737b728e37183a2cc413828fedfe3ac191f79997979302561a057a07c2838
+hash: sha256:ec65b198527010f86275e8df3f81112774ae7bb09f2da2bd725c7437ebfa40ae

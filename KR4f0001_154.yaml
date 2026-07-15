@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十二目録序通鑑綱目序幸魯盛典序南巡詩序南巡詩序皇輿表序懋勤殿法帖序耕織圖序
-  hash: sha256:baa72a157c06861c1284556aa2eb824b6c7df55f9a64198d8a537439e0519462
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十二目録序通鑑綱目序幸魯盛典序南巡詩序南巡詩序皇輿表序懋勤殿法帖序耕織圖序
+  hash: sha256:4d04ff4210a3124afb7e8663cccf5edc91da9ebeb2020eb468daaf0f3989a8f8
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_154-1a, image: WYG1298/WYG1298-0639a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_154.txt
-hash: sha256:a3099411515b796dbe3ef669e7662de2bc3bfb2f3eb7876121fca954632ed08e
+hash: sha256:64fc76979ffd7d5f1ebb82da6b244941c8ab49f2d1831ee1c465cce2b1652544

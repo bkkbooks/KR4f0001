@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十一目録論理學論先天後天論同聲相應論序性理精義序朱子全書序歴代年表序
-  hash: sha256:1b865deedbfb9586b4b5e9132d5f955bd3840342b06f654d0b55c5c0aa7d5d5b
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十一目録論理學論先天後天論同聲相應論序性理精義序朱子全書序歷代年表序
+  hash: sha256:5f6641460512d79edcda3f60ed69a63386d1fd2f8c5f6cb00f300795c5f02789
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_342-1a, image: WYG1299/WYG1299-0531c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_342.txt
-hash: sha256:8d636cbdbc09724feec4dd8ea5f91e495e61424464b6e0373f259cf6f6fede41
+hash: sha256:5ca98144a03297fffd00b8b925c3f5bc94b6d95f4097b3fe1125d6f011ac39af

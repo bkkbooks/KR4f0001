@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷二十四目錄北征勅諭諭皇太子十五條
-  hash: sha256:bdb6608c2f8b6e01a56d98ad9e8fb688d681ee758907a525e1b3cb076c4e5e25
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷二十四目録北征敕諭諭皇太子十五條
+  hash: sha256:86f6522a328e440b314449f2380a548eacbcdcbdc420ed45fec38ffdef3f353c
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_138-1a, image: WYG1298/WYG1298-0557a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_138.txt
-hash: sha256:0648fbd1128e49703e36bf85b36dbe8748f5c6888522d326f8633989f8f50ac9
+hash: sha256:bedb3d953477e52850a3de995ec8095130d0d255f3de2be7f9fd1685a1864673

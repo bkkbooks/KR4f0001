@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文集巻八目錄勅諭諭大將軍康親王傑淑諭安親王岳樂因岳州將軍等失機特諭議政諸臣諭禮部諭吏部諭盛京將軍安褚䕶諭戸部諭内務府諭吏部諭兵部諭禮部諭禮部諭吏部諭刑部諭禮部諭兵部諭兵部諭戸部諭吏部等衙門諭戸工二部
-  hash: sha256:465ffe0fec683786bbff0bf8bffaf5bb0debdee0dd49bb91a9b82489b54a3a82
+  text: 欽定四庫全書聖祖仁皇帝御製文集卷八目録敕諭諭大將軍康親王傑淑諭安親王嶽樂因嶽州將軍等失機特諭議政諸臣諭禮部諭吏部諭盛京將軍安褚護諭戶部諭內務府諭吏部諭兵部諭禮部諭禮部諭吏部諭刑部諭禮部諭兵部諭兵部諭戶部諭吏部等衙門諭戶工二部
+  hash: sha256:b0522d1175e7767c06f6e0720d06d6970cdff94025a440af2fa1a8899bee18ad
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_020-1a, image: WYG1298/WYG1298-0093c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_020.txt
-hash: sha256:89bc5f6d2885452f0e4ebe17ba0c6bc6eb2649fbe5dd12d8ec681dfee3a2feb7
+hash: sha256:a0c74c90179f6b0333cd1bc65b724ff2ebfdfc7cea1c550b87f02105374b206b

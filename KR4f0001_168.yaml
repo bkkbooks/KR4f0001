@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第二集巻三十九目錄雜著閲史緒論六十六條
-  hash: sha256:46d496fb52efce0d7ce5499f792acbb02b44e12f122dbd9bfd0e65c9c451a516
+  text: 欽定四庫全書聖祖仁皇帝御製文第二集卷三十九目録雜著閲史緒論六十六條
+  hash: sha256:2739a6fab7e2e2ef8bc508782acb88414696a7efe222a3a79d8a91dc06f0bbe8
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_168-1a, image: WYG1298/WYG1298-0694a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_168.txt
-hash: sha256:9c6ecdf6aee5d1ec622f97b1be0d49b4f9908e248900b04c9ad8b7009632f18a
+hash: sha256:ad06f2d488c7cc874087b8d06470ef26129b192b3a35122263f8321dd975b2c1

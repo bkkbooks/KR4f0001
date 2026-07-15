@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集巻三十四目錄雜著古文評論計七十一條
-  hash: sha256:3db950768596923c4cb70f2cd820bf73b9c495e4ccad55bca51fece299899bde
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷三十四目録雜著古文評論計七十一條
+  hash: sha256:7e6f5903466941540bed0bd74e35f079f9dcd73fb3c55adc894a388bed24af05
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_264-1a, image: WYG1299/WYG1299-0261a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_264.txt
-hash: sha256:8b19c6ba286f973c7b2570515227604c3d9d0578386e0fa3ad0b677f89700990
+hash: sha256:aa219c0ebe64327bfc8048d633944cedfd5b54c861747d17cccdae0de9553f88

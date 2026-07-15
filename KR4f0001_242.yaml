@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十三目錄碑記普濟堂碑記髙旻寺碑記補陀羅迦山普濟寺碑記重修清凉山羅睺寺碑記碑文重修天竺寺碑文南海補陀法雨寺碑文廣仁寺碑文重修南嶽廟碑文重修西嶽廟碑文
-  hash: sha256:6acefff3523553bf4d93d59f22b74c190673124feb7e6121c705b2ee513620b7
+  text: 欽定四庫全書聖祖仁皇帝御製文第三集卷二十三目録碑記普濟堂碑記髙旻寺碑記補陀羅迦山普濟寺碑記重修清涼山羅睺寺碑記碑文重修天竺寺碑文南海補陀法雨寺碑文廣仁寺碑文重修南嶽廟碑文重修西嶽廟碑文
+  hash: sha256:9d4e902547f2b4f9f113677dda101975686e5860297d9fab78d2409130baa271
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_242-1a, image: WYG1299/WYG1299-0178a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_242.txt
-hash: sha256:8911955a205f28b3893f81d52718b705ea0ed53b26b92d4717353674cccc9551
+hash: sha256:f7cc6f8ecc4cf87424fde5d224108c82139501a20d03bfa7d71fc053a76f6151

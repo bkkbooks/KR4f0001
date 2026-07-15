@@ -12,6 +12,7 @@ markers:
 
       ', id: KR4f0001_krp_360-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_360-1a02}
+  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 22, content: '
 
       ', id: KR4f0001_krp_360-bkkkrnewl3}
@@ -27,6 +28,7 @@ markers:
       ', id: KR4f0001_krp_360-bkkkrnewl5}
   - {type: line-break, offset: 31, content: '', id: KR4f0001_WYG_360-1a05}
   - {type: indent, offset: 31, content: 　　　, id: KR4f0001_krp_360-bkkind4}
+  - {type: substitution, offset: 31, original: 菓, replacement: 果, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16696}}
   - {type: 'kr:newline', offset: 33, content: '
 
       ', id: KR4f0001_krp_360-bkkkrnewl6}
@@ -81,6 +83,8 @@ markers:
       ', id: KR4f0001_krp_360-bkkkrnewl16}
   - {type: line-break, offset: 56, content: '', id: KR4f0001_WYG_360-1b07}
   - {type: indent, offset: 56, content: 　　　, id: KR4f0001_krp_360-bkkind14}
+  - {type: substitution, offset: 56, original: 鼢, replacement: 蚡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20335}}
+  - {type: substitution, offset: 57, original: 䑕, replacement: 鼠, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19956}}
   - {type: 'kr:newline', offset: 58, content: '
 
       ', id: KR4f0001_krp_360-bkkkrnewl17}
@@ -90,4 +94,4 @@ markers:
 
       ', id: KR4f0001_krp_360-bkkkrnewl18}
   back: []
-hash: sha256:27763176f713b45ef89aff2315818a867197b1e05e82aba33579f667ed82a5c6
+hash: sha256:db3b35073707edac5f05ec873dbb21ab0523cd80e0767f70e579fb9af1429f08

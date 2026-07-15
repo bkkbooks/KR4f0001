@@ -12,21 +12,25 @@ markers:
 
       ', id: KR4f0001_krp_328-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0001_WYG_328-1a02}
+  - {type: substitution, offset: 17, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 22, content: '
 
       ', id: KR4f0001_krp_328-bkkkrnewl3}
   - {type: line-break, offset: 22, content: '', id: KR4f0001_WYG_328-1a03}
   - {type: indent, offset: 22, content: 　　, id: KR4f0001_krp_328-bkkind2}
+  - {type: substitution, offset: 22, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20718}}
   - {type: 'kr:newline', offset: 24, content: '
 
       ', id: KR4f0001_krp_328-bkkkrnewl4}
   - {type: line-break, offset: 24, content: '', id: KR4f0001_WYG_328-1a04}
   - {type: indent, offset: 24, content: 　　　, id: KR4f0001_krp_328-bkkind3}
+  - {type: substitution, offset: 28, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: 'kr:newline', offset: 43, content: '
 
       ', id: KR4f0001_krp_328-bkkkrnewl5}
   - {type: line-break, offset: 43, content: '', id: KR4f0001_WYG_328-1a05}
   - {type: indent, offset: 43, content: 　　　　, id: KR4f0001_krp_328-bkkind4}
+  - {type: substitution, offset: 49, original: 䕶, replacement: 護, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19873}}
   - {type: 'kr:newline', offset: 57, content: '
 
       ', id: KR4f0001_krp_328-bkkkrnewl6}
@@ -80,4 +84,4 @@ markers:
 
       ', id: KR4f0001_krp_328-bkkkrnewl16}
   back: []
-hash: sha256:83b378368ef6a3340b3eeb434ba05919a5ba73c117548a325b9cc6990cd50e19
+hash: sha256:a9ce58a852775f6e3b95506555680551753b3856fa6ce970e5ae6489096c17cc

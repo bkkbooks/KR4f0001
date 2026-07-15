@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書聖祖仁皇帝御製文第四集巻二十八目録雜著康熙幾暇格物編文章體道親切惟有朱子回子地産絲䝉古居處有定白龍堆水多伏流同聲相應回子多元子孫阿霸垓鹽絫黍温泉熬水朝鮮紙飛狐馬口柴
-  hash: sha256:47d3f287e0823204527f51414e1deb0994d8b087d3ccab43a308142102e9aadf
+  text: 欽定四庫全書聖祖仁皇帝御製文第四集卷二十八目録雜著康熙幾暇格物編文章體道親切惟有朱子回子地産絲蒙古居處有定白龍堆水多伏流同聲相應回子多元子孫阿霸垓鹽絫黍溫泉熬水朝鮮紙飛狐馬口柴
+  hash: sha256:ca5f40953e4b80cf5c64d40645f50cc9792a86021e2f4f558b7e868bba768146
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0001_WYG_356-1a, image: WYG1299/WYG1299-0580a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0001/KR4f0001_356.txt
-hash: sha256:eff1219bcb2e1c3e39d9ada2bc47c0bd8de2abdf527e02f0bd3ff46b5129b792
+hash: sha256:5b51865c252a2adf61ef7084460d879888ad4d8a72cc32b32403914e9e150a61
