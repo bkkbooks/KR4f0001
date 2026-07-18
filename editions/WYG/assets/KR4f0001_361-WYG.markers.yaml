@@ -227,6 +227,7 @@ markers:
       ', id: KR4f0001_WYG_361-bkkkrnewl51}
   - {type: line-break, offset: 772, content: '', id: KR4f0001_WYG_361-3b06}
   - {type: punctuation, offset: 790, content: (, id: KR4f0001_WYG_361-bkkpn1}
+  - {type: voice, offset: 790, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 793, content: /, id: KR4f0001_WYG_361-bkkpn2}
   - {type: punctuation, offset: 796, content: ), id: KR4f0001_WYG_361-bkkpn3}
   - {type: 'kr:newline', offset: 796, content: '
@@ -246,9 +247,11 @@ markers:
       ', id: KR4f0001_WYG_361-bkkkrnewl55}
   - {type: line-break, offset: 838, content: '', id: KR4f0001_WYG_361-4a01}
   - {type: punctuation, offset: 848, content: (, id: KR4f0001_WYG_361-bkkpn4}
+  - {type: voice, offset: 848, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 854, content: /, id: KR4f0001_WYG_361-bkkpn5}
   - {type: punctuation, offset: 860, content: ), id: KR4f0001_WYG_361-bkkpn6}
   - {type: punctuation, offset: 864, content: (, id: KR4f0001_WYG_361-bkkpn7}
+  - {type: voice, offset: 864, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 865, content: /, id: KR4f0001_WYG_361-bkkpn8}
   - {type: punctuation, offset: 866, content: ), id: KR4f0001_WYG_361-bkkpn9}
   - {type: 'kr:newline', offset: 866, content: '
@@ -483,6 +486,7 @@ markers:
       ', id: KR4f0001_WYG_361-bkkkrnewl111}
   - {type: line-break, offset: 1784, content: '', id: KR4f0001_WYG_361-7a03}
   - {type: punctuation, offset: 1787, content: (, id: KR4f0001_WYG_361-bkkpn13}
+  - {type: voice, offset: 1787, length: 64, name: note, id: n4}
   - {type: punctuation, offset: 1805, content: /, id: KR4f0001_WYG_361-bkkpn14}
   - {type: punctuation, offset: 1823, content: ), id: KR4f0001_WYG_361-bkkpn15}
   - {type: 'kr:newline', offset: 1823, content: '
@@ -782,4 +786,4 @@ markers:
 
       ', id: KR4f0001_WYG_361-bkkkrnewl180}
   back: []
-hash: sha256:7a0f90380379e6dfcb56dbeab2e2d488626d780a2861dcd85c93b2681e794e69
+hash: sha256:0d898027556b5ff13be6891f0e2dfe5b52c695e7b50656971d08c3d1a93bf974
